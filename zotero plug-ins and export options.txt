@@ -1,0 +1,5 @@
+options for exporting and parsing Zotero
+
+https://www.zotero.org/support/plugins#zotero_reports
+
+https://www.conundrumescapes.com/zotnet/zotnet.php
