@@ -1,4 +1,4 @@
-setwd("C:/Users/seoul/Dropbox/00 technical/github/lit-review-network/6 script_R")
+setwd("C:/Users/seoul/Dropbox/00 technical/github/lit-review-network/5 script_R")
 getwd()
 
 # references
@@ -20,8 +20,8 @@ library(igraph)
 
 
 # import node list and edge list
-filepath.nodes <- "../5 data_edgelist and nodelists/nkelites_nodelist_combined.csv"
-filepath.edges <- "../5 data_edgelist and nodelists/nkelites_edgelist_author_journal.csv"
+filepath.nodes <- "../4.3 data_edgelist and nodelists/nkelites_nodelist_combined.csv"
+filepath.edges <- "../4.3 data_edgelist and nodelists/nkelites_edgelist_author_journal.csv"
 
 nodes <- read.csv(filepath.nodes, header=T, as.is=T)
 edges <- read.csv(filepath.edges, header=T, as.is=T)
