@@ -20,8 +20,8 @@ library(igraph)
 
 
 # import node list and edge list
-filepath.nodes <- "../4 data_edgelist and nodelists/nkelites_nodelist_combined.csv"
-filepath.edges <- "../4 data_edgelist and nodelists/nkelites_edgelist_author_journal.csv"
+filepath.nodes <- "../4 data_edgelist and nodelists/nodelist_combined.csv"
+filepath.edges <- "../4 data_edgelist and nodelists/edgelist_author_journal.csv"
 
 nodes <- read.csv(filepath.nodes, header=T, as.is=T)
 edges <- read.csv(filepath.edges, header=T, as.is=T)
@@ -69,7 +69,7 @@ p2<-plot(net,
 
 
 # export figures as pdf file
-pdf("../7 figures_networks/p1.pdf")
+pdf("../6 figures_networks/p1.pdf")
 plot(net,
      vertex.shape=tolower(V(net)$NodeShape),
      vertex.color=V(net)$NodeColor,
@@ -81,7 +81,7 @@ plot(net,
 dev.off()
 
 
-pdf("../7 figures_networks/p1.1.pdf")
+pdf("../6 figures_networks/p1.1.pdf")
 plot(net,
            vertex.shape=tolower(V(net)$NodeShape),
            vertex.color=V(net)$NodeColor,
@@ -91,7 +91,7 @@ plot(net,
 dev.off()
 
 
-pdf("../7 figures_networks/p2.pdf")
+pdf("../6 figures_networks/p2.pdf")
 plot(net,
      vertex.shape="none",
      vertex.label=V(net)$NodeLabel,
