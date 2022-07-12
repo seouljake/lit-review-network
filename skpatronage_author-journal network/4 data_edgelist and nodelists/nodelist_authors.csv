@@ -1,0 +1,530 @@
+NodeIndex,NodeLabel,NodeType,NodeShape,NodeSize,NodeColor
+0,"Abramovitch, Rona",Author,Circle,1,Light Blue
+1,"Adams, Julia",Author,Circle,1,Light Blue
+2,"Adams, Simon",Author,Circle,1,Light Blue
+3,"Agulhon, Maurice",Author,Circle,1,Light Blue
+4,"Ahmad, Noor Sulastry Yurni; Eun, Ki-Soo",Author,Circle,1,Light Blue
+5,"Ahn, Chulhyun",Author,Circle,1,Light Blue
+6,"Ammon, Harry",Author,Circle,1,Light Blue
+7,"An, Yong Heun",Author,Circle,1,Light Blue
+8,"Anderson, Perry",Author,Circle,1,Light Blue
+9,"Asaba, Yuki; Onishi, Yutaka; Tatebayashi, Masahiko",Author,Circle,1,Light Blue
+10,"Ausubel, D.P.; Schiff, H.M.; Gasser, E.B.",Author,Circle,1,Light Blue
+11,"Ayal, Eliezer B.",Author,Circle,1,Light Blue
+12,"Ayton, Andrew",Author,Circle,1,Light Blue
+13,"Bachrach, Bernard",Author,Circle,1,Light Blue
+14,"Baenninger, Louise P.",Author,Circle,1,Light Blue
+15,"Baker, Wayne E.",Author,Circle,1,Light Blue
+16,"Barner-Barry, Carol",Author,Circle,1,Light Blue
+17,"Barth, Fredrik",Author,Circle,1,Light Blue
+18,"Beacham, Jeffery",Author,Circle,1,Light Blue
+19,"Bearman, Peter",Author,Circle,1,Light Blue
+20,"Bearman, Peter; Brückner, Hannah",Author,Circle,1,Light Blue
+21,"Bearman, Peter; Moody, James; Stovel, Katherine",Author,Circle,1,Light Blue
+22,"Bell, Michael Mayerfeld; Barnett, L. Margaret",Author,Circle,1,Light Blue
+23,"Berman, Carol; Kapsalis, Ellen",Author,Circle,1,Light Blue
+24,"Bernard, H. Russell; Johnsen, Eugene C.; Killworth, Peter D.; McCarty, Christopher; Shelley, Gene A.; Robinson, Scott",Author,Circle,1,Light Blue
+25,"Bernard, H. Russell; Johnsen, Eugene C.; Killworth, Peter D.; Robinson, Scott",Author,Circle,1,Light Blue
+26,"Bernstein, Irwin S.",Author,Circle,1,Light Blue
+27,"Bernstein, Irwin S.; Gordon, Thomas P.",Author,Circle,1,Light Blue
+28,"Billet, Bret L.",Author,Circle,1,Light Blue
+29,"Black, Robert",Author,Circle,1,Light Blue
+30,"Bob-Milliar, George M.",Author,Circle,1,Light Blue
+31,"Boice, Robert",Author,Circle,1,Light Blue
+32,"Boice, Robert; Quanty, Carol B.; Williams, Richard C.",Author,Circle,1,Light Blue
+33,"Boissevain, Jeremy",Author,Circle,1,Light Blue
+34,"Bonsteel Tachau, Mary K.",Author,Circle,1,Light Blue
+35,"Boorman, Scott A.; White, Harrison C.",Author,Circle,1,Light Blue
+36,"Bosco, Joseph",Author,Circle,1,Light Blue
+37,"Bourdieu, Pierre",Author,Circle,1,Light Blue
+38,"Bovbjerg, Richard V.",Author,Circle,1,Light Blue
+39,"Boyd, John Paul",Author,Circle,1,Light Blue
+40,"Boyd, John Paul; Jonas, Kai",Author,Circle,1,Light Blue
+41,"Bradley, Ralph Allan; Terry, Milton E.",Author,Circle,1,Light Blue
+42,"Brady, David; Mo, Jongryn",Author,Circle,1,Light Blue
+43,"Braun, Rudolf",Author,Circle,1,Light Blue
+44,"Breiger, Ronald L.",Author,Circle,1,Light Blue
+45,"Breiger, Ronald L.; Pattison, Philippa E.",Author,Circle,1,Light Blue
+46,"Brown, David",Author,Circle,1,Light Blue
+47,"Brunt, Peter Astbury",Author,Circle,1,Light Blue
+48,"Brustein, William",Author,Circle,1,Light Blue
+49,"Brustein, William; Levi, Margaret",Author,Circle,1,Light Blue
+50,"Carty, R. K.",Author,Circle,1,Light Blue
+51,"Ceron, Andrea",Author,Circle,1,Light Blue
+52,"Cha, Victor D.",Author,Circle,1,Light Blue
+53,"Chae, Haesook",Author,Circle,1,Light Blue
+54,"Chambers, William Nisbet",Author,Circle,1,Light Blue
+55,"Champagne, Roger",Author,Circle,1,Light Blue
+56,"Chang, Kyung-Sup",Author,Circle,1,Light Blue
+57,"Chang-jin, Kim; Youn, Kim Dae; Hun, Huh",Author,Circle,1,Light Blue
+58,"Chase, Ivan D.",Author,Circle,1,Light Blue
+59,"Chase, Ivan D.; Rohwer, Sievert",Author,Circle,1,Light Blue
+60,"Cheol, Kim Yong",Author,Circle,1,Light Blue
+61,"Cheol, Yu Myung",Author,Circle,1,Light Blue
+62,"Chepko-Sade, B. Diane; Reitz, Karl P.; Sade, Donald Stone",Author,Circle,1,Light Blue
+63,"Chhibber, Pradeep; Kollman, Ken",Author,Circle,1,Light Blue
+64,"Cho, Dong-Sung",Author,Circle,1,Light Blue
+65,"Cho, Jinman; Eom, Kihong",Author,Circle,1,Light Blue
+66,"Cho, Kisuk",Author,Circle,1,Light Blue
+67,"Cho, Youngho",Author,Circle,1,Light Blue
+68,"Choi, Hyun-Soo; Kim, Hugh Hoikwang; Kim, Paul Youngwook",Author,Circle,1,Light Blue
+69,"Choi, Jang Jip",Author,Circle,1,Light Blue
+70,"Choy, Hyon-Sook",Author,Circle,1,Light Blue
+71,"Clastres, Pierre",Author,Circle,1,Light Blue
+72,"Coleman, James",Author,Circle,1,Light Blue
+73,"Coleman, James; Katz, Elihu; Menzel, Herbert",Author,Circle,1,Light Blue
+74,"Collins, H.M.",Author,Circle,1,Light Blue
+75,"Collins, Randall",Author,Circle,1,Light Blue
+76,"Colodny, Robert G.",Author,Circle,1,Light Blue
+77,"Constable, Julie L.; Ashley, Mary V.; Goodall, Jane; Pusey, Anne E.",Author,Circle,1,Light Blue
+78,"Cooke, Jacob E.",Author,Circle,1,Light Blue
+79,"Cords, Marina",Author,Circle,1,Light Blue
+80,"Cotton, James",Author,Circle,1,Light Blue
+81,"Creel, Herrlee Glessner",Author,Circle,1,Light Blue
+82,"Croissant, Aurel",Author,Circle,1,Light Blue
+83,"Cîrlig, Samira",Author,Circle,1,Light Blue
+84,"Dalton, Bronwen; Cotton, James",Author,Circle,1,Light Blue
+85,"Darcy, Robert; Song, Sunhee",Author,Circle,1,Light Blue
+86,"Daston, Lorraine",Author,Circle,1,Light Blue
+87,"Davis, James A.",Author,Circle,1,Light Blue
+88,"De La Vega, Garcilso",Author,Circle,1,Light Blue
+89,"De Waal, Frans B. M.",Author,Circle,1,Light Blue
+90,"Deag, John M.",Author,Circle,1,Light Blue
+91,"Diego, Vigil James",Author,Circle,1,Light Blue
+92,"Dinstein, Yoram",Author,Circle,1,Light Blue
+93,"Doreian, Patrick",Author,Circle,1,Light Blue
+94,"Douglas, William A.",Author,Circle,1,Light Blue
+95,"Eisenstadt, Shmuel Noah; Roniger, Luis",Author,Circle,1,Light Blue
+96,"Erickson, Bonnie H.; Nosanchuk, T. A.; Mostacci, Liviana; Dalrymple, Christina Ford",Author,Circle,1,Light Blue
+97,"Eunyoung, Soh",Author,Circle,1,Light Blue
+98,"Faust, Katherine",Author,Circle,1,Light Blue
+99,"Fennell, Mary L.; Barchas, Patricia R.; Cohen, Elizabeth G.; McMahon, Anne M.; Hildebrand, Polly",Author,Circle,1,Light Blue
+100,"Ferguson, R. Brian",Author,Circle,1,Light Blue
+101,"Fernandez, Roberto M.; McAdam, Doug",Author,Circle,1,Light Blue
+102,"Firth, Raymond",Author,Circle,1,Light Blue
+103,"Fischer, Wolfram; Lundgreen, Peter",Author,Circle,1,Light Blue
+104,"Flores, Alexandra; Cole, Jennifer C.; Dickert, Stephan; Eom, Kimin; Jiga-Boy, Gabriela M.; Kogut, Tehila; Loria, Riley; Mayorga, Marcus; Pedersen, Eric J.; Pereira, Beatriz",Author,Circle,1,Light Blue
+105,"Foltz, William J.",Author,Circle,1,Light Blue
+106,"Formisano, Ronald P.",Author,Circle,1,Light Blue
+107,"Fortes, Meyer",Author,Circle,1,Light Blue
+108,"Foster, George M.",Author,Circle,1,Light Blue
+109,"Freedman, Jim",Author,Circle,1,Light Blue
+110,"Freeman, Linton C.",Author,Circle,1,Light Blue
+111,"Friedell, Morris F.",Author,Circle,1,Light Blue
+112,"Friedrich, Paul",Author,Circle,1,Light Blue
+113,"Fuller, Sylvia; Martin, John Levi",Author,Circle,1,Light Blue
+114,"Ganshof, F. L.",Author,Circle,1,Light Blue
+115,"Garlan, Yvon",Author,Circle,1,Light Blue
+116,"Garry, Wills",Author,Circle,1,Light Blue
+117,"Gauja, Anika",Author,Circle,1,Light Blue
+118,"Ginsburg, Benson; Allee, William",Author,Circle,1,Light Blue
+119,"Glanzer, Murray; Glaser, Robert",Author,Circle,1,Light Blue
+120,"Gong, Qian; Rawnsley, Gary",Author,Circle,1,Light Blue
+121,"Goodall, Jane",Author,Circle,1,Light Blue
+122,"Gottweis, Herbert; Kim, Byoungsoo",Author,Circle,1,Light Blue
+123,"Gould, Roger V.",Author,Circle,1,Light Blue
+124,"Gouldner, Alvin W.",Author,Circle,1,Light Blue
+125,"Goyal, Sanjeev; Vega-Redondo, Fernando",Author,Circle,1,Light Blue
+126,"Granovetter, Mark",Author,Circle,1,Light Blue
+127,"Graziano, Luigi",Author,Circle,1,Light Blue
+128,"Grossman, Jerrold W.",Author,Circle,1,Light Blue
+129,"Grzelczyk, Virginie",Author,Circle,1,Light Blue
+130,"Gu, Kang Myung; Ha, Se Hun",Author,Circle,1,Light Blue
+131,"Guasti, Laura",Author,Circle,1,Light Blue
+132,"Gunawardana, Ralh",Author,Circle,1,Light Blue
+133,"Ha, Nam-Gil; Mangan, James A.",Author,Circle,1,Light Blue
+134,"Hage, Per",Author,Circle,1,Light Blue
+135,"Hahm, Chaibong",Author,Circle,1,Light Blue
+136,"Haing-Ja, Kim",Author,Circle,1,Light Blue
+137,"Hamilton, Charles V.",Author,Circle,1,Light Blue
+138,"Hammer, Muriel",Author,Circle,1,Light Blue
+139,"Hammond, Peter B.",Author,Circle,1,Light Blue
+140,"Han, JeongHun",Author,Circle,1,Light Blue
+141,"Han, Sungjoo",Author,Circle,1,Light Blue
+142,"Han, Yung Chul",Author,Circle,1,Light Blue
+143,"Hanfmann, Eugenia",Author,Circle,1,Light Blue
+144,"Hanks, Lucien M.",Author,Circle,1,Light Blue
+145,"Haraway, Donna J.",Author,Circle,1,Light Blue
+146,"Harrison, White",Author,Circle,1,Light Blue
+147,"Harton, H. C.; Latané, B.",Author,Circle,1,Light Blue
+148,"Haskard, Alec",Author,Circle,1,Light Blue
+149,"Hauser, Marc",Author,Circle,1,Light Blue
+150,"Haviland, William A.",Author,Circle,1,Light Blue
+151,"Hayano, David M.",Author,Circle,1,Light Blue
+152,"Hazard, Samuel",Author,Circle,1,Light Blue
+153,"Hedström, Peter; Sandell, Rickard; Stern, Charlotta",Author,Circle,1,Light Blue
+154,"Helgesen, Geir",Author,Circle,1,Light Blue
+155,"Hellmann, Olli",Author,Circle,1,Light Blue
+156,"Helm, June",Author,Circle,1,Light Blue
+157,"Henry, Jules",Author,Circle,1,Light Blue
+158,"Heo, Uk; Stockton, Hans",Author,Circle,1,Light Blue
+159,"Herbert, Simon",Author,Circle,1,Light Blue
+160,"Hermanns, Heike",Author,Circle,1,Light Blue
+161,"Hewlett, Barry S.; Cavalli-Sforza, L. L.",Author,Circle,1,Light Blue
+162,"Hicks, Frederic",Author,Circle,1,Light Blue
+163,"Hix, Simon; Jun, Hae-Won",Author,Circle,1,Light Blue
+164,"Hoadley, John F.",Author,Circle,1,Light Blue
+165,"Hochul, Sonn",Author,Circle,1,Light Blue
+166,"Holland, Paul W.; Leinhardt, Samuel",Author,Circle,1,Light Blue
+167,"Horowitz, Shale; Kim, Sunwoong",Author,Circle,1,Light Blue
+168,"House, Floyd N.",Author,Circle,1,Light Blue
+169,"Housley, Norman",Author,Circle,1,Light Blue
+170,"Hsu, Chien-leng; Park, Han-Woo",Author,Circle,1,Light Blue
+171,"Hummon, Norman P; Doreian, Patrick",Author,Circle,1,Light Blue
+172,"Hundt, David; Kim, Jaechun",Author,Circle,1,Light Blue
+173,"Hwang, Ah-Ran",Author,Circle,1,Light Blue
+174,"Hwang, Ah-Ran; Seo, Bokyeung",Author,Circle,1,Light Blue
+175,"Hwang, Sungwook",Author,Circle,1,Light Blue
+176,"Hwang, Sungwook; Kim, Hyo Jung",Author,Circle,1,Light Blue
+177,"Ikegami, Eiko; Harrington, Ann M.",Author,Circle,1,Light Blue
+178,"Ikramov, M. A.; Shermukhamedov, A. T.; Shermukhamedov, U. A.",Author,Circle,1,Light Blue
+179,"Im, Hyug Baeg",Author,Circle,1,Light Blue
+180,"Isbell, Lynne A.; Young, Truman P.",Author,Circle,1,Light Blue
+181,"Ishiyama, John",Author,Circle,1,Light Blue
+182,"Iverson, Geoffrey J.; Sade, Donald Stone",Author,Circle,1,Light Blue
+183,"Ives, John W.",Author,Circle,1,Light Blue
+184,"Jackson, Matthew O.; Wolinsky, Asher",Author,Circle,1,Light Blue
+185,"Jackson, Michael",Author,Circle,1,Light Blue
+186,"Jacobs, Jane",Author,Circle,1,Light Blue
+187,"James, Alfred P.",Author,Circle,1,Light Blue
+188,"Janowitz, Morris",Author,Circle,1,Light Blue
+189,"Janzen, Rod",Author,Circle,1,Light Blue
+190,"Jd, Bygott",Author,Circle,1,Light Blue
+191,"Jeong, Ji Su; Han, Seung Hui",Author,Circle,1,Light Blue
+192,"Jeong, Sangho; Song, Joung Ho",Author,Circle,1,Light Blue
+193,"Jhee, Byong-Kuen; Shin, Geiguen",Author,Circle,1,Light Blue
+194,"Joe, Dong-Hee",Author,Circle,1,Light Blue
+195,"Johnsen, Eugene C.",Author,Circle,1,Light Blue
+196,"Johnson, Hubert C.",Author,Circle,1,Light Blue
+197,"Johnson, Terry; Dandeker, Christopher",Author,Circle,1,Light Blue
+198,"Joyce, Appleby",Author,Circle,1,Light Blue
+199,"Joyce, Mary",Author,Circle,1,Light Blue
+200,"Jun, Hae-Won; Hix, Simon",Author,Circle,1,Light Blue
+201,"Jung, Hoyong",Author,Circle,1,Light Blue
+202,"Jung, Soo Hyun",Author,Circle,1,Light Blue
+203,"Jung, Yonju",Author,Circle,1,Light Blue
+204,"Kang, David C.; Leheny, David; Cha, Victor D.",Author,Circle,1,Light Blue
+205,"Kang, Woo Chang; Park, Won-ho; Song, B. K.",Author,Circle,1,Light Blue
+206,"Kaplan, Jay R.",Author,Circle,1,Light Blue
+207,"Kaplan, Jay R.; Zucker, E.",Author,Circle,1,Light Blue
+208,"Kasakoff, Alice",Author,Circle,1,Light Blue
+209,"Katz, Elihu; Paul, F.",Author,Circle,1,Light Blue
+210,"Katz, Richard S.; Cross, William P.",Author,Circle,1,Light Blue
+211,"Kaufman, Robert R.",Author,Circle,1,Light Blue
+212,"Kawai, Masao",Author,Circle,1,Light Blue
+213,"Keegan, J.",Author,Circle,1,Light Blue
+214,"Keen, Maurice",Author,Circle,1,Light Blue
+215,"Keister, Lisa A.",Author,Circle,1,Light Blue
+216,"Kemp, Jeremy H.",Author,Circle,1,Light Blue
+217,"Kennedy, John G.",Author,Circle,1,Light Blue
+218,"Kihl, Young-Whan",Author,Circle,1,Light Blue
+219,"Killworth, Peter D.; Bernard, H. Russell",Author,Circle,1,Light Blue
+220,"Kim, C. I. Eugene",Author,Circle,1,Light Blue
+221,"Kim, C. I. Eugene; Kihl, Young-Whan; Chung, Doock-Kyou",Author,Circle,1,Light Blue
+222,"Kim, Chang-jin; Kim, Dae Youn; Huh, Hun",Author,Circle,1,Light Blue
+223,"Kim, Cheonsoo; Lee, Soobum",Author,Circle,1,Light Blue
+224,"Kim, Chong Lim; Loewenberg, Gerhard",Author,Circle,1,Light Blue
+225,"Kim, Chong Lim; Woo, Byung-Kyu",Author,Circle,1,Light Blue
+226,"Kim, Hee Min; Choi, Jun Young; Cho, Jinman",Author,Circle,1,Light Blue
+227,"Kim, Hye-Sung",Author,Circle,1,Light Blue
+228,"Kim, Hyunhee; Oh, Yoo-Seok",Author,Circle,1,Light Blue
+229,"Kim, Jae-on; Koh, Byung Chul",Author,Circle,1,Light Blue
+230,"Kim, Kyŏng-su",Author,Circle,1,Light Blue
+231,"Kim, Meengeon",Author,Circle,1,Light Blue
+232,"Kim, Minjeoung",Author,Circle,1,Light Blue
+233,"Kim, Nam-Kook",Author,Circle,1,Light Blue
+234,"Kim, Sei-Hill; Han, Miejeong",Author,Circle,1,Light Blue
+235,"Kim, Soyeon; Shin, Hyun-Han; Yu, Seungwon",Author,Circle,1,Light Blue
+236,"Kim, Sung Eun; Cha, Sujin",Author,Circle,1,Light Blue
+237,"Kim, Sung-Tae; Kim, Sunmi; 방은주",Author,Circle,1,Light Blue
+238,"Kim, Sunhyuk",Author,Circle,1,Light Blue
+239,"Kim, Taewan",Author,Circle,1,Light Blue
+240,"Kim, Wonik",Author,Circle,1,Light Blue
+241,"Kiser, Edgar",Author,Circle,1,Light Blue
+242,"Kiser, Edgar; Cai, Yong",Author,Circle,1,Light Blue
+243,"Kiser, Edgar; Kane, Joshua",Author,Circle,1,Light Blue
+244,"Kiser, Edgar; Linton, April",Author,Circle,1,Light Blue
+245,"Kiser, Edgar; Schneider, Joachim",Author,Circle,1,Light Blue
+246,"Kleinberg, Jon M.",Author,Circle,1,Light Blue
+247,"Knox, Kerry L.; Sade, Donald Stone",Author,Circle,1,Light Blue
+248,"Ko, Kyung Hun",Author,Circle,1,Light Blue
+249,"Koffka, Kurt",Author,Circle,1,Light Blue
+250,"Koh, Byung Chul",Author,Circle,1,Light Blue
+251,"Koo, Hagen",Author,Circle,1,Light Blue
+252,"Kopelowitz, Ezra; Diamond, Matthew",Author,Circle,1,Light Blue
+253,"Kummer, Hans",Author,Circle,1,Light Blue
+254,"Kwak, Seung-Jin; Jung, Young-Mi; Kim, Jin-Mook; Bae, Kyung-Jae; Im, Mi-Kyung",Author,Circle,1,Light Blue
+255,"Kwon, Soo Hyun; Hwang, Ah-Ran",Author,Circle,1,Light Blue
+256,"Lai, Gina; Wong, Odalia",Author,Circle,1,Light Blue
+257,"Land, Carl H.",Author,Circle,1,Light Blue
+258,"Landau, H. G.",Author,Circle,1,Light Blue
+259,"Landes, David S.",Author,Circle,1,Light Blue
+260,"Landé, Carl H.",Author,Circle,1,Light Blue
+261,"Latour, Bruno; Woolgar, Steve",Author,Circle,1,Light Blue
+262,"Lawrence, S. Stepelevich",Author,Circle,1,Light Blue
+263,"Leavitt, Harold J.",Author,Circle,1,Light Blue
+264,"Lee, Chung Min; Botto, Kathryn",Author,Circle,1,Light Blue
+265,"Lee, Don S.; Park, Soonae",Author,Circle,1,Light Blue
+266,"Lee, Dong Ok; Brunn, Stanley D.",Author,Circle,1,Light Blue
+267,"Lee, Eun-Ju",Author,Circle,1,Light Blue
+268,"Lee, Eun-Ju; Lee, Hye-Yon; Choi, Sukyoung",Author,Circle,1,Light Blue
+269,"Lee, Eun-Ju; Shin, Soo Yun",Author,Circle,1,Light Blue
+270,"Lee, Hong Yung",Author,Circle,1,Light Blue
+271,"Lee, Jeongjin",Author,Circle,1,Light Blue
+272,"Lee, Jinock; Hwang, Ah-Ran; Kwon, Soo Hyun",Author,Circle,1,Light Blue
+273,"Lee, Junhan; Hwang, Wonjae",Author,Circle,1,Light Blue
+274,"Lee, Maurice",Author,Circle,1,Light Blue
+275,"Lee, Richard",Author,Circle,1,Light Blue
+276,"Lee, SangChul",Author,Circle,1,Light Blue
+277,"Lee, Sangmook",Author,Circle,1,Light Blue
+278,"Lee, Seung-Chal",Author,Circle,1,Light Blue
+279,"Lee, Seung-Ook",Author,Circle,1,Light Blue
+280,"Lee, Won-Tae; Chang, Woo-young; Min, Hee",Author,Circle,1,Light Blue
+281,"Lee, Yoonkyung",Author,Circle,1,Light Blue
+282,"Leibiger, Stuart",Author,Circle,1,Light Blue
+283,"Leinhardt, Samuel",Author,Circle,1,Light Blue
+284,"Lemarchand, René",Author,Circle,1,Light Blue
+285,"Levi-Strauss, Claude",Author,Circle,1,Light Blue
+286,"Levine, Donald N.",Author,Circle,1,Light Blue
+287,"Lie, John",Author,Circle,1,Light Blue
+288,"Lim, Yon Soo; Park, Han-Woo",Author,Circle,1,Light Blue
+289,"Lindblom, Charles E.",Author,Circle,1,Light Blue
+290,"Lippitt, Ronald; Polansky, Norman; Rosen, Sidney",Author,Circle,1,Light Blue
+291,"Llamazares, Iván",Author,Circle,1,Light Blue
+292,"Lokken, Roy N.",Author,Circle,1,Light Blue
+293,"Lorrain, François; White, Harrison C.",Author,Circle,1,Light Blue
+294,"Louch, Hugh",Author,Circle,1,Light Blue
+295,"Lubbers, Miranda J",Author,Circle,1,Light Blue
+296,"Luchterhandt, Galina",Author,Circle,1,Light Blue
+297,"Luhmann, Niklas",Author,Circle,1,Light Blue
+298,"Lynn, John",Author,Circle,1,Light Blue
+299,"Lyons, Martyn",Author,Circle,1,Light Blue
+300,"Mackay, Charles",Author,Circle,1,Light Blue
+301,"Macy, Michael W.; Willer, Robert",Author,Circle,1,Light Blue
+302,"Maenchen-Helfen, J. Otto",Author,Circle,1,Light Blue
+303,"Main, Jackson T.",Author,Circle,1,Light Blue
+304,"Mair, Lucy P.",Author,Circle,1,Light Blue
+305,"Major, J. Russell",Author,Circle,1,Light Blue
+306,"March, James G.",Author,Circle,1,Light Blue
+307,"Marglin, Stephen A.",Author,Circle,1,Light Blue
+308,"Marglin, Stephen A.; Marglin, Stephen A.",Author,Circle,1,Light Blue
+309,"Marshall, Lorna",Author,Circle,1,Light Blue
+310,"Martin, John   Levi",Author,Circle,1,Light Blue
+311,"Martin, John Levi",Author,Circle,1,Light Blue
+312,"Martin, John Levi; Yeung, King-To",Author,Circle,1,Light Blue
+313,"McAllister, Ian; White, Stephen J.",Author,Circle,1,Light Blue
+314,"McCue, Brian",Author,Circle,1,Light Blue
+315,"McEachern, Patrick",Author,Circle,1,Light Blue
+316,"McHugh, T.",Author,Circle,1,Light Blue
+317,"McLean, Paul D.",Author,Circle,1,Light Blue
+318,"McLean, Paul D.; Padgett, John F.",Author,Circle,1,Light Blue
+319,"McLean, Paul D.",Author,Circle,1,Light Blue
+320,"McNeill, William H.",Author,Circle,1,Light Blue
+321,"Meggitt, M. J.",Author,Circle,1,Light Blue
+322,"Meier, Oliver",Author,Circle,1,Light Blue
+323,"Meyer, John W.; Rowan, Brian",Author,Circle,1,Light Blue
+324,"Mintz, Sidney W.; Wolf, Eric R.",Author,Circle,1,Light Blue
+325,"Mobrand, Erik",Author,Circle,1,Light Blue
+326,"Montgomery, James D.",Author,Circle,1,Light Blue
+327,"Moody, James",Author,Circle,1,Light Blue
+328,"Moon, Sangseok; Kim, Beomsoo; Seo, Jungmin",Author,Circle,1,Light Blue
+329,"Moon, Woojin",Author,Circle,1,Light Blue
+330,"Morris, Martina",Author,Circle,1,Light Blue
+331,"Morriss, Peter",Author,Circle,1,Light Blue
+332,"Mortensen, Dale T.",Author,Circle,1,Light Blue
+333,"Mosler, Hannes B.",Author,Circle,1,Light Blue
+334,"Mouzelis, Nicos",Author,Circle,1,Light Blue
+335,"Nam, Jeong-Lim",Author,Circle,1,Light Blue
+336,"Nash, Manning",Author,Circle,1,Light Blue
+337,"Nathan, Andrew James",Author,Circle,1,Light Blue
+338,"Nishida, Toshisada",Author,Circle,1,Light Blue
+339,"O'Gorman, Hubert J.",Author,Circle,1,Light Blue
+340,"Oberschall, Anthony; Leifer, Eric M.",Author,Circle,1,Light Blue
+341,"Ofshe, Richard; Berg, Nancy Eisenberg; Coughlin, Richard; Dolinajec, Gregory; Gerson, Kathleen; Johnson, Avery",Author,Circle,1,Light Blue
+342,"Oh, Sookhee",Author,Circle,1,Light Blue
+343,"Omoweh, Daniel A.",Author,Circle,1,Light Blue
+344,"Opp, Karl-Dieter",Author,Circle,1,Light Blue
+345,"Padgett, John F.; McLean, Paul D.",Author,Circle,1,Light Blue
+346,"Park, Beomjong",Author,Circle,1,Light Blue
+347,"Park, Chan Wook",Author,Circle,1,Light Blue
+348,"Park, Han-Woo; Barnett, George A.; Kim, Chun-Sik",Author,Circle,1,Light Blue
+349,"Park, Han-Woo; Kim, Chun-Sik; Barnett, George A.",Author,Circle,1,Light Blue
+350,"Park, Han-Woo; Kluver, Randolph",Author,Circle,1,Light Blue
+351,"Park, Han-Woo; Thelwall, Mike",Author,Circle,1,Light Blue
+352,"Park, Ji-Young; Cho, Chung-Lae",Author,Circle,1,Light Blue
+353,"Park, Kie-Duck",Author,Circle,1,Light Blue
+354,"Park, Myoungho",Author,Circle,1,Light Blue
+355,"Park, Sang Un",Author,Circle,1,Light Blue
+356,"Park, Se Jung; Lim, Yon Soo; Sams, Steven; Nam, Sang Me; Park, Han-Woo",Author,Circle,1,Light Blue
+357,"Perez Zagorin, Rebels",Author,Circle,1,Light Blue
+358,"Perkins, Doug",Author,Circle,1,Light Blue
+359,"Piepenburg, W. W.",Author,Circle,1,Light Blue
+360,"Powell, John Duncan",Author,Circle,1,Light Blue
+361,"Powers, Brian",Author,Circle,1,Light Blue
+362,"Powicke, Michael",Author,Circle,1,Light Blue
+363,"Prinz, Friedrich",Author,Circle,1,Light Blue
+364,"Qvarnström, Anna; Forsgren, Elisabet",Author,Circle,1,Light Blue
+365,"Ra, Hinde",Author,Circle,1,Light Blue
+366,"Radcliffe-Brown, A. R.",Author,Circle,1,Light Blue
+367,"Rahat, Gideon",Author,Circle,1,Light Blue
+368,"Rainey, Ronald",Author,Circle,1,Light Blue
+369,"Rasmussen, Dennis R.",Author,Circle,1,Light Blue
+370,"Raymond, Chevallier",Author,Circle,1,Light Blue
+371,"Read, K. E.",Author,Circle,1,Light Blue
+372,"Reich, Wendelin",Author,Circle,1,Light Blue
+373,"Reinhardt, Viktor; Reinhardt, Annie",Author,Circle,1,Light Blue
+374,"Rhine, Ramon J.",Author,Circle,1,Light Blue
+375,"Ridgeway, Cecilia L.; Erickson, Kristan Glasgow",Author,Circle,1,Light Blue
+376,"Riley, Dylan",Author,Circle,1,Light Blue
+377,"Robins, Garry; Pattison, Philippa E.; Woolcock, Jodie",Author,Circle,1,Light Blue
+378,"Roh, Jungho",Author,Circle,1,Light Blue
+379,"Rossi, Ino",Author,Circle,1,Light Blue
+380,"Roth, Eric Abella",Author,Circle,1,Light Blue
+381,"Rothblum, Uriel G.",Author,Circle,1,Light Blue
+382,"Rowell, T. E.",Author,Circle,1,Light Blue
+383,"Ryan, Dan",Author,Circle,1,Light Blue
+384,"Ryu, Sang-Il; Lee, Min-Kyu",Author,Circle,1,Light Blue
+385,"Sade, Donald Stone",Author,Circle,1,Light Blue
+386,"Sade, Donald Stone; Altmann, Michael; Loy, James; Hausfater, Glenn; Breuggeman, Judith A.",Author,Circle,1,Light Blue
+387,"Sahlins, Marshall D.",Author,Circle,1,Light Blue
+388,"Saller, Richard",Author,Circle,1,Light Blue
+389,"Savin-Williams, Richard C.",Author,Circle,1,Light Blue
+390,"Schjelderup-Ebbe, T.",Author,Circle,1,Light Blue
+391,"Schneider, Robert A.",Author,Circle,1,Light Blue
+392,"Scott, James C.",Author,Circle,1,Light Blue
+393,"Shapin, Steven; Collins, Harry",Author,Circle,1,Light Blue
+394,"Sharma, R. S.",Author,Circle,1,Light Blue
+395,"Shefter, Martin",Author,Circle,1,Light Blue
+396,"Sheley, Joseph F.; Zhang, Joshua; Brody, Charles J.; Wright, James D.",Author,Circle,1,Light Blue
+397,"Shim, Jiyeon",Author,Circle,1,Light Blue
+398,"Shin, Doh Chull",Author,Circle,1,Light Blue
+399,"Shin, Eui Hang",Author,Circle,1,Light Blue
+400,"Shin, Gi-Wook; Chang, Paul Y.",Author,Circle,1,Light Blue
+401,"Shin, Jae Hyeok",Author,Circle,1,Light Blue
+402,"Shin, Jae Hyeok; Lee, Hojun",Author,Circle,1,Light Blue
+403,"Shin, Jungsub",Author,Circle,1,Light Blue
+404,"Shin, Ki-young",Author,Circle,1,Light Blue
+405,"Shin, Ki-young; Kwon, Soo Hyun",Author,Circle,1,Light Blue
+406,"Shin, Myungsoon",Author,Circle,1,Light Blue
+407,"Shin, Myungsoon; Jin, Youngjae; Gross, Donald A.; Eom, Kihong",Author,Circle,1,Light Blue
+408,"Shorrock, Tim",Author,Circle,1,Light Blue
+409,"Showalter, Dennis E.",Author,Circle,1,Light Blue
+410,"Shwayri, Sofia T.",Author,Circle,1,Light Blue
+411,"Silberbauer, George B.",Author,Circle,1,Light Blue
+412,"Silk, Joan B.",Author,Circle,1,Light Blue
+413,"Silver, Allan",Author,Circle,1,Light Blue
+414,"Simmel, Georg",Author,Circle,1,Light Blue
+415,"Simon, Herbert A.",Author,Circle,1,Light Blue
+416,"Singer, Alice",Author,Circle,1,Light Blue
+417,"Skaggs, David Curtis",Author,Circle,1,Light Blue
+418,"Slater, Dan",Author,Circle,1,Light Blue
+419,"Slez, Adam; Martin, John Levi",Author,Circle,1,Light Blue
+420,"Smith, David Glenn",Author,Circle,1,Light Blue
+421,"Smith, Robert",Author,Circle,1,Light Blue
+422,"Smuts, Barbara B.",Author,Circle,1,Light Blue
+423,"Snodgrass, A. M.",Author,Circle,1,Light Blue
+424,"Solinger, Dorothy J.",Author,Circle,1,Light Blue
+425,"Somers, Margaret R.",Author,Circle,1,Light Blue
+426,"Song, Keon-Sup",Author,Circle,1,Light Blue
+427,"Spitzer, Robert J.",Author,Circle,1,Light Blue
+428,"Stevenson, Adlai E.",Author,Circle,1,Light Blue
+429,"Stockton, Hans",Author,Circle,1,Light Blue
+430,"Strayer, F. F.; Strayer, Janet",Author,Circle,1,Light Blue
+431,"Strier, Karen B.",Author,Circle,1,Light Blue
+432,"Strier, Karen B.; Dib, Laiena T.; Figueira, José E. C.",Author,Circle,1,Light Blue
+433,"Strnad, Grazyna",Author,Circle,1,Light Blue
+434,"Strogatz, Steven H.",Author,Circle,1,Light Blue
+435,"Syme, Geoffrey J.; Syme, L. A.",Author,Circle,1,Light Blue
+436,"Taek, Han Jung",Author,Circle,1,Light Blue
+437,"Tango, Gerard J.",Author,Circle,1,Light Blue
+438,"Terwiel, Barend",Author,Circle,1,Light Blue
+439,"Thomas, Charles M.",Author,Circle,1,Light Blue
+440,"Thompson Jr, Hugh R.",Author,Circle,1,Light Blue
+441,"Tilly, Charles",Author,Circle,1,Light Blue
+442,"Van Doorn, G. Sander; Hengeveld, Geerten M.; Weissing, Franz J.",Author,Circle,1,Light Blue
+443,"Van Doorn, G. Sander; Weissing, Franz J.; Hengeveld, Geerten M.",Author,Circle,1,Light Blue
+444,"Van Hooff, Jan A. R. A. M.",Author,Circle,1,Light Blue
+445,"Varga, Nicholas",Author,Circle,1,Light Blue
+446,"Vaughn, Brian E.; Waters, Everett",Author,Circle,1,Light Blue
+447,"Venkatesh, Sudhir Alladi; Levitt, Steven D.",Author,Circle,1,Light Blue
+448,"Viveiros de Castro, Eduardo",Author,Circle,1,Light Blue
+449,"Wallace-Hadrill, Andrew",Author,Circle,1,Light Blue
+450,"Waller, Willard",Author,Circle,1,Light Blue
+451,"Wang, Yi-ting; Kitschelt, Herbert",Author,Circle,1,Light Blue
+452,"Ward, W. R.",Author,Circle,1,Light Blue
+453,"Watts, Duncan J.; Dodds, Peter Sheridan; Newman, M. E. J.",Author,Circle,1,Light Blue
+454,"Waugh, Scott L.",Author,Circle,1,Light Blue
+455,"Weber, Max",Author,Circle,1,Light Blue
+456,"Weigley, Russell Frank",Author,Circle,1,Light Blue
+457,"Weimann, Gabriel",Author,Circle,1,Light Blue
+458,"Weingrod, Alex",Author,Circle,1,Light Blue
+459,"Weisfeld, Glen E.; Omark, Donald R.; Cronin, Carol L.",Author,Circle,1,Light Blue
+460,"Wendel, Thomas",Author,Circle,1,Light Blue
+461,"White, Douglas R.; Harary, Frank",Author,Circle,1,Light Blue
+462,"White, Harrison C.; Boorman, Scott A.; Breiger, Ronald L.",Author,Circle,1,Light Blue
+463,"Whitehead, Neil L.",Author,Circle,1,Light Blue
+464,"Whitten, David O.",Author,Circle,1,Light Blue
+465,"Wiley, James A.; Herschkorn, Stephen J.",Author,Circle,1,Light Blue
+466,"Williamson, Oliver E.",Author,Circle,1,Light Blue
+467,"Winship, Christopher",Author,Circle,1,Light Blue
+468,"Wong, Ling Heng; Pattison, Philippa E.; Robins, Garry",Author,Circle,1,Light Blue
+469,"Woo, Byung-Kyu; Kim, Chong Lim",Author,Circle,1,Light Blue
+470,"Woo, Jaejoon",Author,Circle,1,Light Blue
+471,"Wrangham, Richard W.",Author,Circle,1,Light Blue
+472,"Wright, Tony",Author,Circle,1,Light Blue
+473,"Yamaguchi, Kazuo",Author,Circle,1,Light Blue
+474,"Yeo, Andrew",Author,Circle,1,Light Blue
+475,"Yeung, King-To",Author,Circle,1,Light Blue
+476,"Yoon, Ho Young; Park, Han-Woo",Author,Circle,1,Light Blue
+477,"Yoon, Jiso; Shin, Ki-young",Author,Circle,1,Light Blue
+478,"Yoon, Jongbin",Author,Circle,1,Light Blue
+479,"Yuk, Joowon",Author,Circle,1,Light Blue
+480,"Yun, Sung-Oak",Author,Circle,1,Light Blue
+481,"Zariski, Raphael",Author,Circle,1,Light Blue
+482,"Zerubavel, Eviatar",Author,Circle,1,Light Blue
+483,"Zetterberg, Hans L.",Author,Circle,1,Light Blue
+484,"Zhao, Dingxin",Author,Circle,1,Light Blue
+485,朴允姬,Author,Circle,1,Light Blue
+486,朴眞炅; 鄭하나; 金相淑,Author,Circle,1,Light Blue
+487,李定珍,Author,Circle,1,Light Blue
+488,강민제; 윤성이,Author,Circle,1,Light Blue
+489,"금창호; Choi, Young-chool; Gwan, Park Jong",Author,Circle,1,Light Blue
+490,길정아  Jung Ah Gil,Author,Circle,1,Light Blue
+491,김범수; 서정민,Author,Circle,1,Light Blue
+492,김영태,Author,Circle,1,Light Blue
+493,김용호,Author,Circle,1,Light Blue
+494,김은희,Author,Circle,1,Light Blue
+495,김정기,Author,Circle,1,Light Blue
+496,김태완,Author,Circle,1,Light Blue
+497,김현조; 이수구; 박영강,Author,Circle,1,Light Blue
+498,김현희; 오유석; 박인혜,Author,Circle,1,Light Blue
+499,"남창우; Choi, Hwasick",Author,Circle,1,Light Blue
+500,박경미,Author,Circle,1,Light Blue
+501,박명호; 김민선,Author,Circle,1,Light Blue
+502,박명호; 차홍석,Author,Circle,1,Light Blue
+503,박명호; 한기영,Author,Circle,1,Light Blue
+504,박상운,Author,Circle,1,Light Blue
+505,박영강,Author,Circle,1,Light Blue
+506,박용성; 최성구,Author,Circle,1,Light Blue
+507,서복경,Author,Circle,1,Light Blue
+508,성치훈; 진영재,Author,Circle,1,Light Blue
+509,안신호,Author,Circle,1,Light Blue
+510,안철현,Author,Circle,1,Light Blue
+511,윤이화,Author,Circle,1,Light Blue
+512,윤종빈,Author,Circle,1,Light Blue
+513,이갑윤; 이현우,Author,Circle,1,Light Blue
+514,이동윤,Author,Circle,1,Light Blue
+515,이부하,Author,Circle,1,Light Blue
+516,이종훈,Author,Circle,1,Light Blue
+517,이종훈  Jong Hoon Lee,Author,Circle,1,Light Blue
+518,이준한,Author,Circle,1,Light Blue
+519,장승진,Author,Circle,1,Light Blue
+520,전용주,Author,Circle,1,Light Blue
+521,전용주; 임성학; 김석우,Author,Circle,1,Light Blue
+522,전진영,Author,Circle,1,Light Blue
+523,정준표,Author,Circle,1,Light Blue
+524,정진민,Author,Circle,1,Light Blue
+525,주용학,Author,Circle,1,Light Blue
+526,하영애; 오영달,Author,Circle,1,Light Blue
+527,허석재  Hur Sukjae,Author,Circle,1,Light Blue
+528,황아란,Author,Circle,1,Light Blue

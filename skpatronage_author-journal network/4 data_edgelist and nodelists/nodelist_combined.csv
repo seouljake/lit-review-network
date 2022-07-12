@@ -1,0 +1,882 @@
+NodeIndex,NodeLabel,NodeType,NodeShape,NodeSize,NodeColor
+0,"Abramovitch, Rona",Author,Circle,1,Light Blue
+1,"Adams, Julia",Author,Circle,1,Light Blue
+2,"Adams, Simon",Author,Circle,1,Light Blue
+3,"Agulhon, Maurice",Author,Circle,1,Light Blue
+4,"Ahmad, Noor Sulastry Yurni; Eun, Ki-Soo",Author,Circle,1,Light Blue
+5,"Ahn, Chulhyun",Author,Circle,1,Light Blue
+6,"Ammon, Harry",Author,Circle,1,Light Blue
+7,"An, Yong Heun",Author,Circle,1,Light Blue
+8,"Anderson, Perry",Author,Circle,1,Light Blue
+9,"Asaba, Yuki; Onishi, Yutaka; Tatebayashi, Masahiko",Author,Circle,1,Light Blue
+10,"Ausubel, D.P.; Schiff, H.M.; Gasser, E.B.",Author,Circle,1,Light Blue
+11,"Ayal, Eliezer B.",Author,Circle,1,Light Blue
+12,"Ayton, Andrew",Author,Circle,1,Light Blue
+13,"Bachrach, Bernard",Author,Circle,1,Light Blue
+14,"Baenninger, Louise P.",Author,Circle,1,Light Blue
+15,"Baker, Wayne E.",Author,Circle,1,Light Blue
+16,"Barner-Barry, Carol",Author,Circle,1,Light Blue
+17,"Barth, Fredrik",Author,Circle,1,Light Blue
+18,"Beacham, Jeffery",Author,Circle,1,Light Blue
+19,"Bearman, Peter",Author,Circle,1,Light Blue
+20,"Bearman, Peter; Brückner, Hannah",Author,Circle,1,Light Blue
+21,"Bearman, Peter; Moody, James; Stovel, Katherine",Author,Circle,1,Light Blue
+22,"Bell, Michael Mayerfeld; Barnett, L. Margaret",Author,Circle,1,Light Blue
+23,"Berman, Carol; Kapsalis, Ellen",Author,Circle,1,Light Blue
+24,"Bernard, H. Russell; Johnsen, Eugene C.; Killworth, Peter D.; McCarty, Christopher; Shelley, Gene A.; Robinson, Scott",Author,Circle,1,Light Blue
+25,"Bernard, H. Russell; Johnsen, Eugene C.; Killworth, Peter D.; Robinson, Scott",Author,Circle,1,Light Blue
+26,"Bernstein, Irwin S.",Author,Circle,1,Light Blue
+27,"Bernstein, Irwin S.; Gordon, Thomas P.",Author,Circle,1,Light Blue
+28,"Billet, Bret L.",Author,Circle,1,Light Blue
+29,"Black, Robert",Author,Circle,1,Light Blue
+30,"Bob-Milliar, George M.",Author,Circle,1,Light Blue
+31,"Boice, Robert",Author,Circle,1,Light Blue
+32,"Boice, Robert; Quanty, Carol B.; Williams, Richard C.",Author,Circle,1,Light Blue
+33,"Boissevain, Jeremy",Author,Circle,1,Light Blue
+34,"Bonsteel Tachau, Mary K.",Author,Circle,1,Light Blue
+35,"Boorman, Scott A.; White, Harrison C.",Author,Circle,1,Light Blue
+36,"Bosco, Joseph",Author,Circle,1,Light Blue
+37,"Bourdieu, Pierre",Author,Circle,1,Light Blue
+38,"Bovbjerg, Richard V.",Author,Circle,1,Light Blue
+39,"Boyd, John Paul",Author,Circle,1,Light Blue
+40,"Boyd, John Paul; Jonas, Kai",Author,Circle,1,Light Blue
+41,"Bradley, Ralph Allan; Terry, Milton E.",Author,Circle,1,Light Blue
+42,"Brady, David; Mo, Jongryn",Author,Circle,1,Light Blue
+43,"Braun, Rudolf",Author,Circle,1,Light Blue
+44,"Breiger, Ronald L.",Author,Circle,1,Light Blue
+45,"Breiger, Ronald L.; Pattison, Philippa E.",Author,Circle,1,Light Blue
+46,"Brown, David",Author,Circle,1,Light Blue
+47,"Brunt, Peter Astbury",Author,Circle,1,Light Blue
+48,"Brustein, William",Author,Circle,1,Light Blue
+49,"Brustein, William; Levi, Margaret",Author,Circle,1,Light Blue
+50,"Carty, R. K.",Author,Circle,1,Light Blue
+51,"Ceron, Andrea",Author,Circle,1,Light Blue
+52,"Cha, Victor D.",Author,Circle,1,Light Blue
+53,"Chae, Haesook",Author,Circle,1,Light Blue
+54,"Chambers, William Nisbet",Author,Circle,1,Light Blue
+55,"Champagne, Roger",Author,Circle,1,Light Blue
+56,"Chang, Kyung-Sup",Author,Circle,1,Light Blue
+57,"Chang-jin, Kim; Youn, Kim Dae; Hun, Huh",Author,Circle,1,Light Blue
+58,"Chase, Ivan D.",Author,Circle,1,Light Blue
+59,"Chase, Ivan D.; Rohwer, Sievert",Author,Circle,1,Light Blue
+60,"Cheol, Kim Yong",Author,Circle,1,Light Blue
+61,"Cheol, Yu Myung",Author,Circle,1,Light Blue
+62,"Chepko-Sade, B. Diane; Reitz, Karl P.; Sade, Donald Stone",Author,Circle,1,Light Blue
+63,"Chhibber, Pradeep; Kollman, Ken",Author,Circle,1,Light Blue
+64,"Cho, Dong-Sung",Author,Circle,1,Light Blue
+65,"Cho, Jinman; Eom, Kihong",Author,Circle,1,Light Blue
+66,"Cho, Kisuk",Author,Circle,1,Light Blue
+67,"Cho, Youngho",Author,Circle,1,Light Blue
+68,"Choi, Hyun-Soo; Kim, Hugh Hoikwang; Kim, Paul Youngwook",Author,Circle,1,Light Blue
+69,"Choi, Jang Jip",Author,Circle,1,Light Blue
+70,"Choy, Hyon-Sook",Author,Circle,1,Light Blue
+71,"Clastres, Pierre",Author,Circle,1,Light Blue
+72,"Coleman, James",Author,Circle,1,Light Blue
+73,"Coleman, James; Katz, Elihu; Menzel, Herbert",Author,Circle,1,Light Blue
+74,"Collins, H.M.",Author,Circle,1,Light Blue
+75,"Collins, Randall",Author,Circle,1,Light Blue
+76,"Colodny, Robert G.",Author,Circle,1,Light Blue
+77,"Constable, Julie L.; Ashley, Mary V.; Goodall, Jane; Pusey, Anne E.",Author,Circle,1,Light Blue
+78,"Cooke, Jacob E.",Author,Circle,1,Light Blue
+79,"Cords, Marina",Author,Circle,1,Light Blue
+80,"Cotton, James",Author,Circle,1,Light Blue
+81,"Creel, Herrlee Glessner",Author,Circle,1,Light Blue
+82,"Croissant, Aurel",Author,Circle,1,Light Blue
+83,"Cîrlig, Samira",Author,Circle,1,Light Blue
+84,"Dalton, Bronwen; Cotton, James",Author,Circle,1,Light Blue
+85,"Darcy, Robert; Song, Sunhee",Author,Circle,1,Light Blue
+86,"Daston, Lorraine",Author,Circle,1,Light Blue
+87,"Davis, James A.",Author,Circle,1,Light Blue
+88,"De La Vega, Garcilso",Author,Circle,1,Light Blue
+89,"De Waal, Frans B. M.",Author,Circle,1,Light Blue
+90,"Deag, John M.",Author,Circle,1,Light Blue
+91,"Diego, Vigil James",Author,Circle,1,Light Blue
+92,"Dinstein, Yoram",Author,Circle,1,Light Blue
+93,"Doreian, Patrick",Author,Circle,1,Light Blue
+94,"Douglas, William A.",Author,Circle,1,Light Blue
+95,"Eisenstadt, Shmuel Noah; Roniger, Luis",Author,Circle,1,Light Blue
+96,"Erickson, Bonnie H.; Nosanchuk, T. A.; Mostacci, Liviana; Dalrymple, Christina Ford",Author,Circle,1,Light Blue
+97,"Eunyoung, Soh",Author,Circle,1,Light Blue
+98,"Faust, Katherine",Author,Circle,1,Light Blue
+99,"Fennell, Mary L.; Barchas, Patricia R.; Cohen, Elizabeth G.; McMahon, Anne M.; Hildebrand, Polly",Author,Circle,1,Light Blue
+100,"Ferguson, R. Brian",Author,Circle,1,Light Blue
+101,"Fernandez, Roberto M.; McAdam, Doug",Author,Circle,1,Light Blue
+102,"Firth, Raymond",Author,Circle,1,Light Blue
+103,"Fischer, Wolfram; Lundgreen, Peter",Author,Circle,1,Light Blue
+104,"Flores, Alexandra; Cole, Jennifer C.; Dickert, Stephan; Eom, Kimin; Jiga-Boy, Gabriela M.; Kogut, Tehila; Loria, Riley; Mayorga, Marcus; Pedersen, Eric J.; Pereira, Beatriz",Author,Circle,1,Light Blue
+105,"Foltz, William J.",Author,Circle,1,Light Blue
+106,"Formisano, Ronald P.",Author,Circle,1,Light Blue
+107,"Fortes, Meyer",Author,Circle,1,Light Blue
+108,"Foster, George M.",Author,Circle,1,Light Blue
+109,"Freedman, Jim",Author,Circle,1,Light Blue
+110,"Freeman, Linton C.",Author,Circle,1,Light Blue
+111,"Friedell, Morris F.",Author,Circle,1,Light Blue
+112,"Friedrich, Paul",Author,Circle,1,Light Blue
+113,"Fuller, Sylvia; Martin, John Levi",Author,Circle,1,Light Blue
+114,"Ganshof, F. L.",Author,Circle,1,Light Blue
+115,"Garlan, Yvon",Author,Circle,1,Light Blue
+116,"Garry, Wills",Author,Circle,1,Light Blue
+117,"Gauja, Anika",Author,Circle,1,Light Blue
+118,"Ginsburg, Benson; Allee, William",Author,Circle,1,Light Blue
+119,"Glanzer, Murray; Glaser, Robert",Author,Circle,1,Light Blue
+120,"Gong, Qian; Rawnsley, Gary",Author,Circle,1,Light Blue
+121,"Goodall, Jane",Author,Circle,1,Light Blue
+122,"Gottweis, Herbert; Kim, Byoungsoo",Author,Circle,1,Light Blue
+123,"Gould, Roger V.",Author,Circle,1,Light Blue
+124,"Gouldner, Alvin W.",Author,Circle,1,Light Blue
+125,"Goyal, Sanjeev; Vega-Redondo, Fernando",Author,Circle,1,Light Blue
+126,"Granovetter, Mark",Author,Circle,1,Light Blue
+127,"Graziano, Luigi",Author,Circle,1,Light Blue
+128,"Grossman, Jerrold W.",Author,Circle,1,Light Blue
+129,"Grzelczyk, Virginie",Author,Circle,1,Light Blue
+130,"Gu, Kang Myung; Ha, Se Hun",Author,Circle,1,Light Blue
+131,"Guasti, Laura",Author,Circle,1,Light Blue
+132,"Gunawardana, Ralh",Author,Circle,1,Light Blue
+133,"Ha, Nam-Gil; Mangan, James A.",Author,Circle,1,Light Blue
+134,"Hage, Per",Author,Circle,1,Light Blue
+135,"Hahm, Chaibong",Author,Circle,1,Light Blue
+136,"Haing-Ja, Kim",Author,Circle,1,Light Blue
+137,"Hamilton, Charles V.",Author,Circle,1,Light Blue
+138,"Hammer, Muriel",Author,Circle,1,Light Blue
+139,"Hammond, Peter B.",Author,Circle,1,Light Blue
+140,"Han, JeongHun",Author,Circle,1,Light Blue
+141,"Han, Sungjoo",Author,Circle,1,Light Blue
+142,"Han, Yung Chul",Author,Circle,1,Light Blue
+143,"Hanfmann, Eugenia",Author,Circle,1,Light Blue
+144,"Hanks, Lucien M.",Author,Circle,1,Light Blue
+145,"Haraway, Donna J.",Author,Circle,1,Light Blue
+146,"Harrison, White",Author,Circle,1,Light Blue
+147,"Harton, H. C.; Latané, B.",Author,Circle,1,Light Blue
+148,"Haskard, Alec",Author,Circle,1,Light Blue
+149,"Hauser, Marc",Author,Circle,1,Light Blue
+150,"Haviland, William A.",Author,Circle,1,Light Blue
+151,"Hayano, David M.",Author,Circle,1,Light Blue
+152,"Hazard, Samuel",Author,Circle,1,Light Blue
+153,"Hedström, Peter; Sandell, Rickard; Stern, Charlotta",Author,Circle,1,Light Blue
+154,"Helgesen, Geir",Author,Circle,1,Light Blue
+155,"Hellmann, Olli",Author,Circle,1,Light Blue
+156,"Helm, June",Author,Circle,1,Light Blue
+157,"Henry, Jules",Author,Circle,1,Light Blue
+158,"Heo, Uk; Stockton, Hans",Author,Circle,1,Light Blue
+159,"Herbert, Simon",Author,Circle,1,Light Blue
+160,"Hermanns, Heike",Author,Circle,1,Light Blue
+161,"Hewlett, Barry S.; Cavalli-Sforza, L. L.",Author,Circle,1,Light Blue
+162,"Hicks, Frederic",Author,Circle,1,Light Blue
+163,"Hix, Simon; Jun, Hae-Won",Author,Circle,1,Light Blue
+164,"Hoadley, John F.",Author,Circle,1,Light Blue
+165,"Hochul, Sonn",Author,Circle,1,Light Blue
+166,"Holland, Paul W.; Leinhardt, Samuel",Author,Circle,1,Light Blue
+167,"Horowitz, Shale; Kim, Sunwoong",Author,Circle,1,Light Blue
+168,"House, Floyd N.",Author,Circle,1,Light Blue
+169,"Housley, Norman",Author,Circle,1,Light Blue
+170,"Hsu, Chien-leng; Park, Han-Woo",Author,Circle,1,Light Blue
+171,"Hummon, Norman P; Doreian, Patrick",Author,Circle,1,Light Blue
+172,"Hundt, David; Kim, Jaechun",Author,Circle,1,Light Blue
+173,"Hwang, Ah-Ran",Author,Circle,1,Light Blue
+174,"Hwang, Ah-Ran; Seo, Bokyeung",Author,Circle,1,Light Blue
+175,"Hwang, Sungwook",Author,Circle,1,Light Blue
+176,"Hwang, Sungwook; Kim, Hyo Jung",Author,Circle,1,Light Blue
+177,"Ikegami, Eiko; Harrington, Ann M.",Author,Circle,1,Light Blue
+178,"Ikramov, M. A.; Shermukhamedov, A. T.; Shermukhamedov, U. A.",Author,Circle,1,Light Blue
+179,"Im, Hyug Baeg",Author,Circle,1,Light Blue
+180,"Isbell, Lynne A.; Young, Truman P.",Author,Circle,1,Light Blue
+181,"Ishiyama, John",Author,Circle,1,Light Blue
+182,"Iverson, Geoffrey J.; Sade, Donald Stone",Author,Circle,1,Light Blue
+183,"Ives, John W.",Author,Circle,1,Light Blue
+184,"Jackson, Matthew O.; Wolinsky, Asher",Author,Circle,1,Light Blue
+185,"Jackson, Michael",Author,Circle,1,Light Blue
+186,"Jacobs, Jane",Author,Circle,1,Light Blue
+187,"James, Alfred P.",Author,Circle,1,Light Blue
+188,"Janowitz, Morris",Author,Circle,1,Light Blue
+189,"Janzen, Rod",Author,Circle,1,Light Blue
+190,"Jd, Bygott",Author,Circle,1,Light Blue
+191,"Jeong, Ji Su; Han, Seung Hui",Author,Circle,1,Light Blue
+192,"Jeong, Sangho; Song, Joung Ho",Author,Circle,1,Light Blue
+193,"Jhee, Byong-Kuen; Shin, Geiguen",Author,Circle,1,Light Blue
+194,"Joe, Dong-Hee",Author,Circle,1,Light Blue
+195,"Johnsen, Eugene C.",Author,Circle,1,Light Blue
+196,"Johnson, Hubert C.",Author,Circle,1,Light Blue
+197,"Johnson, Terry; Dandeker, Christopher",Author,Circle,1,Light Blue
+198,"Joyce, Appleby",Author,Circle,1,Light Blue
+199,"Joyce, Mary",Author,Circle,1,Light Blue
+200,"Jun, Hae-Won; Hix, Simon",Author,Circle,1,Light Blue
+201,"Jung, Hoyong",Author,Circle,1,Light Blue
+202,"Jung, Soo Hyun",Author,Circle,1,Light Blue
+203,"Jung, Yonju",Author,Circle,1,Light Blue
+204,"Kang, David C.; Leheny, David; Cha, Victor D.",Author,Circle,1,Light Blue
+205,"Kang, Woo Chang; Park, Won-ho; Song, B. K.",Author,Circle,1,Light Blue
+206,"Kaplan, Jay R.",Author,Circle,1,Light Blue
+207,"Kaplan, Jay R.; Zucker, E.",Author,Circle,1,Light Blue
+208,"Kasakoff, Alice",Author,Circle,1,Light Blue
+209,"Katz, Elihu; Paul, F.",Author,Circle,1,Light Blue
+210,"Katz, Richard S.; Cross, William P.",Author,Circle,1,Light Blue
+211,"Kaufman, Robert R.",Author,Circle,1,Light Blue
+212,"Kawai, Masao",Author,Circle,1,Light Blue
+213,"Keegan, J.",Author,Circle,1,Light Blue
+214,"Keen, Maurice",Author,Circle,1,Light Blue
+215,"Keister, Lisa A.",Author,Circle,1,Light Blue
+216,"Kemp, Jeremy H.",Author,Circle,1,Light Blue
+217,"Kennedy, John G.",Author,Circle,1,Light Blue
+218,"Kihl, Young-Whan",Author,Circle,1,Light Blue
+219,"Killworth, Peter D.; Bernard, H. Russell",Author,Circle,1,Light Blue
+220,"Kim, C. I. Eugene",Author,Circle,1,Light Blue
+221,"Kim, C. I. Eugene; Kihl, Young-Whan; Chung, Doock-Kyou",Author,Circle,1,Light Blue
+222,"Kim, Chang-jin; Kim, Dae Youn; Huh, Hun",Author,Circle,1,Light Blue
+223,"Kim, Cheonsoo; Lee, Soobum",Author,Circle,1,Light Blue
+224,"Kim, Chong Lim; Loewenberg, Gerhard",Author,Circle,1,Light Blue
+225,"Kim, Chong Lim; Woo, Byung-Kyu",Author,Circle,1,Light Blue
+226,"Kim, Hee Min; Choi, Jun Young; Cho, Jinman",Author,Circle,1,Light Blue
+227,"Kim, Hye-Sung",Author,Circle,1,Light Blue
+228,"Kim, Hyunhee; Oh, Yoo-Seok",Author,Circle,1,Light Blue
+229,"Kim, Jae-on; Koh, Byung Chul",Author,Circle,1,Light Blue
+230,"Kim, Kyŏng-su",Author,Circle,1,Light Blue
+231,"Kim, Meengeon",Author,Circle,1,Light Blue
+232,"Kim, Minjeoung",Author,Circle,1,Light Blue
+233,"Kim, Nam-Kook",Author,Circle,1,Light Blue
+234,"Kim, Sei-Hill; Han, Miejeong",Author,Circle,1,Light Blue
+235,"Kim, Soyeon; Shin, Hyun-Han; Yu, Seungwon",Author,Circle,1,Light Blue
+236,"Kim, Sung Eun; Cha, Sujin",Author,Circle,1,Light Blue
+237,"Kim, Sung-Tae; Kim, Sunmi; 방은주",Author,Circle,1,Light Blue
+238,"Kim, Sunhyuk",Author,Circle,1,Light Blue
+239,"Kim, Taewan",Author,Circle,1,Light Blue
+240,"Kim, Wonik",Author,Circle,1,Light Blue
+241,"Kiser, Edgar",Author,Circle,1,Light Blue
+242,"Kiser, Edgar; Cai, Yong",Author,Circle,1,Light Blue
+243,"Kiser, Edgar; Kane, Joshua",Author,Circle,1,Light Blue
+244,"Kiser, Edgar; Linton, April",Author,Circle,1,Light Blue
+245,"Kiser, Edgar; Schneider, Joachim",Author,Circle,1,Light Blue
+246,"Kleinberg, Jon M.",Author,Circle,1,Light Blue
+247,"Knox, Kerry L.; Sade, Donald Stone",Author,Circle,1,Light Blue
+248,"Ko, Kyung Hun",Author,Circle,1,Light Blue
+249,"Koffka, Kurt",Author,Circle,1,Light Blue
+250,"Koh, Byung Chul",Author,Circle,1,Light Blue
+251,"Koo, Hagen",Author,Circle,1,Light Blue
+252,"Kopelowitz, Ezra; Diamond, Matthew",Author,Circle,1,Light Blue
+253,"Kummer, Hans",Author,Circle,1,Light Blue
+254,"Kwak, Seung-Jin; Jung, Young-Mi; Kim, Jin-Mook; Bae, Kyung-Jae; Im, Mi-Kyung",Author,Circle,1,Light Blue
+255,"Kwon, Soo Hyun; Hwang, Ah-Ran",Author,Circle,1,Light Blue
+256,"Lai, Gina; Wong, Odalia",Author,Circle,1,Light Blue
+257,"Land, Carl H.",Author,Circle,1,Light Blue
+258,"Landau, H. G.",Author,Circle,1,Light Blue
+259,"Landes, David S.",Author,Circle,1,Light Blue
+260,"Landé, Carl H.",Author,Circle,1,Light Blue
+261,"Latour, Bruno; Woolgar, Steve",Author,Circle,1,Light Blue
+262,"Lawrence, S. Stepelevich",Author,Circle,1,Light Blue
+263,"Leavitt, Harold J.",Author,Circle,1,Light Blue
+264,"Lee, Chung Min; Botto, Kathryn",Author,Circle,1,Light Blue
+265,"Lee, Don S.; Park, Soonae",Author,Circle,1,Light Blue
+266,"Lee, Dong Ok; Brunn, Stanley D.",Author,Circle,1,Light Blue
+267,"Lee, Eun-Ju",Author,Circle,1,Light Blue
+268,"Lee, Eun-Ju; Lee, Hye-Yon; Choi, Sukyoung",Author,Circle,1,Light Blue
+269,"Lee, Eun-Ju; Shin, Soo Yun",Author,Circle,1,Light Blue
+270,"Lee, Hong Yung",Author,Circle,1,Light Blue
+271,"Lee, Jeongjin",Author,Circle,1,Light Blue
+272,"Lee, Jinock; Hwang, Ah-Ran; Kwon, Soo Hyun",Author,Circle,1,Light Blue
+273,"Lee, Junhan; Hwang, Wonjae",Author,Circle,1,Light Blue
+274,"Lee, Maurice",Author,Circle,1,Light Blue
+275,"Lee, Richard",Author,Circle,1,Light Blue
+276,"Lee, SangChul",Author,Circle,1,Light Blue
+277,"Lee, Sangmook",Author,Circle,1,Light Blue
+278,"Lee, Seung-Chal",Author,Circle,1,Light Blue
+279,"Lee, Seung-Ook",Author,Circle,1,Light Blue
+280,"Lee, Won-Tae; Chang, Woo-young; Min, Hee",Author,Circle,1,Light Blue
+281,"Lee, Yoonkyung",Author,Circle,1,Light Blue
+282,"Leibiger, Stuart",Author,Circle,1,Light Blue
+283,"Leinhardt, Samuel",Author,Circle,1,Light Blue
+284,"Lemarchand, René",Author,Circle,1,Light Blue
+285,"Levi-Strauss, Claude",Author,Circle,1,Light Blue
+286,"Levine, Donald N.",Author,Circle,1,Light Blue
+287,"Lie, John",Author,Circle,1,Light Blue
+288,"Lim, Yon Soo; Park, Han-Woo",Author,Circle,1,Light Blue
+289,"Lindblom, Charles E.",Author,Circle,1,Light Blue
+290,"Lippitt, Ronald; Polansky, Norman; Rosen, Sidney",Author,Circle,1,Light Blue
+291,"Llamazares, Iván",Author,Circle,1,Light Blue
+292,"Lokken, Roy N.",Author,Circle,1,Light Blue
+293,"Lorrain, François; White, Harrison C.",Author,Circle,1,Light Blue
+294,"Louch, Hugh",Author,Circle,1,Light Blue
+295,"Lubbers, Miranda J",Author,Circle,1,Light Blue
+296,"Luchterhandt, Galina",Author,Circle,1,Light Blue
+297,"Luhmann, Niklas",Author,Circle,1,Light Blue
+298,"Lynn, John",Author,Circle,1,Light Blue
+299,"Lyons, Martyn",Author,Circle,1,Light Blue
+300,"Mackay, Charles",Author,Circle,1,Light Blue
+301,"Macy, Michael W.; Willer, Robert",Author,Circle,1,Light Blue
+302,"Maenchen-Helfen, J. Otto",Author,Circle,1,Light Blue
+303,"Main, Jackson T.",Author,Circle,1,Light Blue
+304,"Mair, Lucy P.",Author,Circle,1,Light Blue
+305,"Major, J. Russell",Author,Circle,1,Light Blue
+306,"March, James G.",Author,Circle,1,Light Blue
+307,"Marglin, Stephen A.",Author,Circle,1,Light Blue
+308,"Marglin, Stephen A.; Marglin, Stephen A.",Author,Circle,1,Light Blue
+309,"Marshall, Lorna",Author,Circle,1,Light Blue
+310,"Martin, John   Levi",Author,Circle,1,Light Blue
+311,"Martin, John Levi",Author,Circle,1,Light Blue
+312,"Martin, John Levi; Yeung, King-To",Author,Circle,1,Light Blue
+313,"McAllister, Ian; White, Stephen J.",Author,Circle,1,Light Blue
+314,"McCue, Brian",Author,Circle,1,Light Blue
+315,"McEachern, Patrick",Author,Circle,1,Light Blue
+316,"McHugh, T.",Author,Circle,1,Light Blue
+317,"McLean, Paul D.",Author,Circle,1,Light Blue
+318,"McLean, Paul D.; Padgett, John F.",Author,Circle,1,Light Blue
+319,"McLean, Paul D.",Author,Circle,1,Light Blue
+320,"McNeill, William H.",Author,Circle,1,Light Blue
+321,"Meggitt, M. J.",Author,Circle,1,Light Blue
+322,"Meier, Oliver",Author,Circle,1,Light Blue
+323,"Meyer, John W.; Rowan, Brian",Author,Circle,1,Light Blue
+324,"Mintz, Sidney W.; Wolf, Eric R.",Author,Circle,1,Light Blue
+325,"Mobrand, Erik",Author,Circle,1,Light Blue
+326,"Montgomery, James D.",Author,Circle,1,Light Blue
+327,"Moody, James",Author,Circle,1,Light Blue
+328,"Moon, Sangseok; Kim, Beomsoo; Seo, Jungmin",Author,Circle,1,Light Blue
+329,"Moon, Woojin",Author,Circle,1,Light Blue
+330,"Morris, Martina",Author,Circle,1,Light Blue
+331,"Morriss, Peter",Author,Circle,1,Light Blue
+332,"Mortensen, Dale T.",Author,Circle,1,Light Blue
+333,"Mosler, Hannes B.",Author,Circle,1,Light Blue
+334,"Mouzelis, Nicos",Author,Circle,1,Light Blue
+335,"Nam, Jeong-Lim",Author,Circle,1,Light Blue
+336,"Nash, Manning",Author,Circle,1,Light Blue
+337,"Nathan, Andrew James",Author,Circle,1,Light Blue
+338,"Nishida, Toshisada",Author,Circle,1,Light Blue
+339,"O'Gorman, Hubert J.",Author,Circle,1,Light Blue
+340,"Oberschall, Anthony; Leifer, Eric M.",Author,Circle,1,Light Blue
+341,"Ofshe, Richard; Berg, Nancy Eisenberg; Coughlin, Richard; Dolinajec, Gregory; Gerson, Kathleen; Johnson, Avery",Author,Circle,1,Light Blue
+342,"Oh, Sookhee",Author,Circle,1,Light Blue
+343,"Omoweh, Daniel A.",Author,Circle,1,Light Blue
+344,"Opp, Karl-Dieter",Author,Circle,1,Light Blue
+345,"Padgett, John F.; McLean, Paul D.",Author,Circle,1,Light Blue
+346,"Park, Beomjong",Author,Circle,1,Light Blue
+347,"Park, Chan Wook",Author,Circle,1,Light Blue
+348,"Park, Han-Woo; Barnett, George A.; Kim, Chun-Sik",Author,Circle,1,Light Blue
+349,"Park, Han-Woo; Kim, Chun-Sik; Barnett, George A.",Author,Circle,1,Light Blue
+350,"Park, Han-Woo; Kluver, Randolph",Author,Circle,1,Light Blue
+351,"Park, Han-Woo; Thelwall, Mike",Author,Circle,1,Light Blue
+352,"Park, Ji-Young; Cho, Chung-Lae",Author,Circle,1,Light Blue
+353,"Park, Kie-Duck",Author,Circle,1,Light Blue
+354,"Park, Myoungho",Author,Circle,1,Light Blue
+355,"Park, Sang Un",Author,Circle,1,Light Blue
+356,"Park, Se Jung; Lim, Yon Soo; Sams, Steven; Nam, Sang Me; Park, Han-Woo",Author,Circle,1,Light Blue
+357,"Perez Zagorin, Rebels",Author,Circle,1,Light Blue
+358,"Perkins, Doug",Author,Circle,1,Light Blue
+359,"Piepenburg, W. W.",Author,Circle,1,Light Blue
+360,"Powell, John Duncan",Author,Circle,1,Light Blue
+361,"Powers, Brian",Author,Circle,1,Light Blue
+362,"Powicke, Michael",Author,Circle,1,Light Blue
+363,"Prinz, Friedrich",Author,Circle,1,Light Blue
+364,"Qvarnström, Anna; Forsgren, Elisabet",Author,Circle,1,Light Blue
+365,"Ra, Hinde",Author,Circle,1,Light Blue
+366,"Radcliffe-Brown, A. R.",Author,Circle,1,Light Blue
+367,"Rahat, Gideon",Author,Circle,1,Light Blue
+368,"Rainey, Ronald",Author,Circle,1,Light Blue
+369,"Rasmussen, Dennis R.",Author,Circle,1,Light Blue
+370,"Raymond, Chevallier",Author,Circle,1,Light Blue
+371,"Read, K. E.",Author,Circle,1,Light Blue
+372,"Reich, Wendelin",Author,Circle,1,Light Blue
+373,"Reinhardt, Viktor; Reinhardt, Annie",Author,Circle,1,Light Blue
+374,"Rhine, Ramon J.",Author,Circle,1,Light Blue
+375,"Ridgeway, Cecilia L.; Erickson, Kristan Glasgow",Author,Circle,1,Light Blue
+376,"Riley, Dylan",Author,Circle,1,Light Blue
+377,"Robins, Garry; Pattison, Philippa E.; Woolcock, Jodie",Author,Circle,1,Light Blue
+378,"Roh, Jungho",Author,Circle,1,Light Blue
+379,"Rossi, Ino",Author,Circle,1,Light Blue
+380,"Roth, Eric Abella",Author,Circle,1,Light Blue
+381,"Rothblum, Uriel G.",Author,Circle,1,Light Blue
+382,"Rowell, T. E.",Author,Circle,1,Light Blue
+383,"Ryan, Dan",Author,Circle,1,Light Blue
+384,"Ryu, Sang-Il; Lee, Min-Kyu",Author,Circle,1,Light Blue
+385,"Sade, Donald Stone",Author,Circle,1,Light Blue
+386,"Sade, Donald Stone; Altmann, Michael; Loy, James; Hausfater, Glenn; Breuggeman, Judith A.",Author,Circle,1,Light Blue
+387,"Sahlins, Marshall D.",Author,Circle,1,Light Blue
+388,"Saller, Richard",Author,Circle,1,Light Blue
+389,"Savin-Williams, Richard C.",Author,Circle,1,Light Blue
+390,"Schjelderup-Ebbe, T.",Author,Circle,1,Light Blue
+391,"Schneider, Robert A.",Author,Circle,1,Light Blue
+392,"Scott, James C.",Author,Circle,1,Light Blue
+393,"Shapin, Steven; Collins, Harry",Author,Circle,1,Light Blue
+394,"Sharma, R. S.",Author,Circle,1,Light Blue
+395,"Shefter, Martin",Author,Circle,1,Light Blue
+396,"Sheley, Joseph F.; Zhang, Joshua; Brody, Charles J.; Wright, James D.",Author,Circle,1,Light Blue
+397,"Shim, Jiyeon",Author,Circle,1,Light Blue
+398,"Shin, Doh Chull",Author,Circle,1,Light Blue
+399,"Shin, Eui Hang",Author,Circle,1,Light Blue
+400,"Shin, Gi-Wook; Chang, Paul Y.",Author,Circle,1,Light Blue
+401,"Shin, Jae Hyeok",Author,Circle,1,Light Blue
+402,"Shin, Jae Hyeok; Lee, Hojun",Author,Circle,1,Light Blue
+403,"Shin, Jungsub",Author,Circle,1,Light Blue
+404,"Shin, Ki-young",Author,Circle,1,Light Blue
+405,"Shin, Ki-young; Kwon, Soo Hyun",Author,Circle,1,Light Blue
+406,"Shin, Myungsoon",Author,Circle,1,Light Blue
+407,"Shin, Myungsoon; Jin, Youngjae; Gross, Donald A.; Eom, Kihong",Author,Circle,1,Light Blue
+408,"Shorrock, Tim",Author,Circle,1,Light Blue
+409,"Showalter, Dennis E.",Author,Circle,1,Light Blue
+410,"Shwayri, Sofia T.",Author,Circle,1,Light Blue
+411,"Silberbauer, George B.",Author,Circle,1,Light Blue
+412,"Silk, Joan B.",Author,Circle,1,Light Blue
+413,"Silver, Allan",Author,Circle,1,Light Blue
+414,"Simmel, Georg",Author,Circle,1,Light Blue
+415,"Simon, Herbert A.",Author,Circle,1,Light Blue
+416,"Singer, Alice",Author,Circle,1,Light Blue
+417,"Skaggs, David Curtis",Author,Circle,1,Light Blue
+418,"Slater, Dan",Author,Circle,1,Light Blue
+419,"Slez, Adam; Martin, John Levi",Author,Circle,1,Light Blue
+420,"Smith, David Glenn",Author,Circle,1,Light Blue
+421,"Smith, Robert",Author,Circle,1,Light Blue
+422,"Smuts, Barbara B.",Author,Circle,1,Light Blue
+423,"Snodgrass, A. M.",Author,Circle,1,Light Blue
+424,"Solinger, Dorothy J.",Author,Circle,1,Light Blue
+425,"Somers, Margaret R.",Author,Circle,1,Light Blue
+426,"Song, Keon-Sup",Author,Circle,1,Light Blue
+427,"Spitzer, Robert J.",Author,Circle,1,Light Blue
+428,"Stevenson, Adlai E.",Author,Circle,1,Light Blue
+429,"Stockton, Hans",Author,Circle,1,Light Blue
+430,"Strayer, F. F.; Strayer, Janet",Author,Circle,1,Light Blue
+431,"Strier, Karen B.",Author,Circle,1,Light Blue
+432,"Strier, Karen B.; Dib, Laiena T.; Figueira, José E. C.",Author,Circle,1,Light Blue
+433,"Strnad, Grazyna",Author,Circle,1,Light Blue
+434,"Strogatz, Steven H.",Author,Circle,1,Light Blue
+435,"Syme, Geoffrey J.; Syme, L. A.",Author,Circle,1,Light Blue
+436,"Taek, Han Jung",Author,Circle,1,Light Blue
+437,"Tango, Gerard J.",Author,Circle,1,Light Blue
+438,"Terwiel, Barend",Author,Circle,1,Light Blue
+439,"Thomas, Charles M.",Author,Circle,1,Light Blue
+440,"Thompson Jr, Hugh R.",Author,Circle,1,Light Blue
+441,"Tilly, Charles",Author,Circle,1,Light Blue
+442,"Van Doorn, G. Sander; Hengeveld, Geerten M.; Weissing, Franz J.",Author,Circle,1,Light Blue
+443,"Van Doorn, G. Sander; Weissing, Franz J.; Hengeveld, Geerten M.",Author,Circle,1,Light Blue
+444,"Van Hooff, Jan A. R. A. M.",Author,Circle,1,Light Blue
+445,"Varga, Nicholas",Author,Circle,1,Light Blue
+446,"Vaughn, Brian E.; Waters, Everett",Author,Circle,1,Light Blue
+447,"Venkatesh, Sudhir Alladi; Levitt, Steven D.",Author,Circle,1,Light Blue
+448,"Viveiros de Castro, Eduardo",Author,Circle,1,Light Blue
+449,"Wallace-Hadrill, Andrew",Author,Circle,1,Light Blue
+450,"Waller, Willard",Author,Circle,1,Light Blue
+451,"Wang, Yi-ting; Kitschelt, Herbert",Author,Circle,1,Light Blue
+452,"Ward, W. R.",Author,Circle,1,Light Blue
+453,"Watts, Duncan J.; Dodds, Peter Sheridan; Newman, M. E. J.",Author,Circle,1,Light Blue
+454,"Waugh, Scott L.",Author,Circle,1,Light Blue
+455,"Weber, Max",Author,Circle,1,Light Blue
+456,"Weigley, Russell Frank",Author,Circle,1,Light Blue
+457,"Weimann, Gabriel",Author,Circle,1,Light Blue
+458,"Weingrod, Alex",Author,Circle,1,Light Blue
+459,"Weisfeld, Glen E.; Omark, Donald R.; Cronin, Carol L.",Author,Circle,1,Light Blue
+460,"Wendel, Thomas",Author,Circle,1,Light Blue
+461,"White, Douglas R.; Harary, Frank",Author,Circle,1,Light Blue
+462,"White, Harrison C.; Boorman, Scott A.; Breiger, Ronald L.",Author,Circle,1,Light Blue
+463,"Whitehead, Neil L.",Author,Circle,1,Light Blue
+464,"Whitten, David O.",Author,Circle,1,Light Blue
+465,"Wiley, James A.; Herschkorn, Stephen J.",Author,Circle,1,Light Blue
+466,"Williamson, Oliver E.",Author,Circle,1,Light Blue
+467,"Winship, Christopher",Author,Circle,1,Light Blue
+468,"Wong, Ling Heng; Pattison, Philippa E.; Robins, Garry",Author,Circle,1,Light Blue
+469,"Woo, Byung-Kyu; Kim, Chong Lim",Author,Circle,1,Light Blue
+470,"Woo, Jaejoon",Author,Circle,1,Light Blue
+471,"Wrangham, Richard W.",Author,Circle,1,Light Blue
+472,"Wright, Tony",Author,Circle,1,Light Blue
+473,"Yamaguchi, Kazuo",Author,Circle,1,Light Blue
+474,"Yeo, Andrew",Author,Circle,1,Light Blue
+475,"Yeung, King-To",Author,Circle,1,Light Blue
+476,"Yoon, Ho Young; Park, Han-Woo",Author,Circle,1,Light Blue
+477,"Yoon, Jiso; Shin, Ki-young",Author,Circle,1,Light Blue
+478,"Yoon, Jongbin",Author,Circle,1,Light Blue
+479,"Yuk, Joowon",Author,Circle,1,Light Blue
+480,"Yun, Sung-Oak",Author,Circle,1,Light Blue
+481,"Zariski, Raphael",Author,Circle,1,Light Blue
+482,"Zerubavel, Eviatar",Author,Circle,1,Light Blue
+483,"Zetterberg, Hans L.",Author,Circle,1,Light Blue
+484,"Zhao, Dingxin",Author,Circle,1,Light Blue
+485,朴允姬,Author,Circle,1,Light Blue
+486,朴眞炅; 鄭하나; 金相淑,Author,Circle,1,Light Blue
+487,李定珍,Author,Circle,1,Light Blue
+488,강민제; 윤성이,Author,Circle,1,Light Blue
+489,"금창호; Choi, Young-chool; Gwan, Park Jong",Author,Circle,1,Light Blue
+490,길정아  Jung Ah Gil,Author,Circle,1,Light Blue
+491,김범수; 서정민,Author,Circle,1,Light Blue
+492,김영태,Author,Circle,1,Light Blue
+493,김용호,Author,Circle,1,Light Blue
+494,김은희,Author,Circle,1,Light Blue
+495,김정기,Author,Circle,1,Light Blue
+496,김태완,Author,Circle,1,Light Blue
+497,김현조; 이수구; 박영강,Author,Circle,1,Light Blue
+498,김현희; 오유석; 박인혜,Author,Circle,1,Light Blue
+499,"남창우; Choi, Hwasick",Author,Circle,1,Light Blue
+500,박경미,Author,Circle,1,Light Blue
+501,박명호; 김민선,Author,Circle,1,Light Blue
+502,박명호; 차홍석,Author,Circle,1,Light Blue
+503,박명호; 한기영,Author,Circle,1,Light Blue
+504,박상운,Author,Circle,1,Light Blue
+505,박영강,Author,Circle,1,Light Blue
+506,박용성; 최성구,Author,Circle,1,Light Blue
+507,서복경,Author,Circle,1,Light Blue
+508,성치훈; 진영재,Author,Circle,1,Light Blue
+509,안신호,Author,Circle,1,Light Blue
+510,안철현,Author,Circle,1,Light Blue
+511,윤이화,Author,Circle,1,Light Blue
+512,윤종빈,Author,Circle,1,Light Blue
+513,이갑윤; 이현우,Author,Circle,1,Light Blue
+514,이동윤,Author,Circle,1,Light Blue
+515,이부하,Author,Circle,1,Light Blue
+516,이종훈,Author,Circle,1,Light Blue
+517,이종훈  Jong Hoon Lee,Author,Circle,1,Light Blue
+518,이준한,Author,Circle,1,Light Blue
+519,장승진,Author,Circle,1,Light Blue
+520,전용주,Author,Circle,1,Light Blue
+521,전용주; 임성학; 김석우,Author,Circle,1,Light Blue
+522,전진영,Author,Circle,1,Light Blue
+523,정준표,Author,Circle,1,Light Blue
+524,정진민,Author,Circle,1,Light Blue
+525,주용학,Author,Circle,1,Light Blue
+526,하영애; 오영달,Author,Circle,1,Light Blue
+527,허석재  Hur Sukjae,Author,Circle,1,Light Blue
+528,황아란,Author,Circle,1,Light Blue
+529,21st Century Political Science Review,Journal,Square,1,White
+530,21세기정치학회보,Journal,Square,1,White
+531,ANNALS of the American Academy of Political and Social Science,Journal,Square,1,Red
+532,ASIEN,Journal,Square,1,White
+533,Acta Sociologica,Journal,Square,1,Red
+534,Africa,Journal,Square,1,White
+535,Agricultural History,Journal,Square,1,White
+536,Albion,Journal,Square,1,White
+537,American Anthropologist,Journal,Square,1,White
+538,American Antiquity,Journal,Square,1,White
+539,American Ethnologist,Journal,Square,1,White
+540,American Historical Review,Journal,Square,1,White
+541,American Journal of International Law,Journal,Square,1,White
+542,American Journal of Orthopsychiatry,Journal,Square,1,White
+543,American Journal of Physical Anthropology,Journal,Square,1,White
+544,American Journal of Primatology,Journal,Square,1,White
+545,American Journal of Sociology,Journal,Square,1,Red
+546,American Mathematical Monthly,Journal,Square,1,White
+547,American Political Science Review,Journal,Square,1,White
+548,American Scientist,Journal,Square,1,White
+549,American Sociological Review,Journal,Square,1,Red
+550,Animal Behaviour,Journal,Square,1,White
+551,"Annales. Histoire, Sciences Sociales",Journal,Square,1,White
+552,Annual Review of Sociology,Journal,Square,1,Red
+553,Anthropology of War,Journal,Square,1,White
+554,Anthropology today,Journal,Square,1,White
+555,Applied Economics Letters,Journal,Square,1,White
+556,Arms Control Today,Journal,Square,1,White
+557,Asia pacific business review,Journal,Square,1,White
+558,Asian Journal of Political Science,Journal,Square,1,White
+559,Asian Journal of Women's Studies,Journal,Square,1,White
+560,"Asian New Democracies: Philippines, South Korea and Taiwan Compared",Journal,Square,1,White
+561,Asian Perspective,Journal,Square,1,White
+562,Asian Politics & Policy,Journal,Square,1,White
+563,Asian Survey,Journal,Square,1,White
+564,Asian survey,Journal,Square,1,White
+565,Austin: University of Texas,Journal,Square,1,White
+566,Authoritarianism and corporatism in Latin America,Journal,Square,1,White
+567,Available at SSRN 4040810,Journal,Square,1,White
+568,Behavioral Science,Journal,Square,1,White
+569,Behaviour,Journal,Square,1,White
+570,"Bentley (reprint ed., New York: Harmony Books 1980)",Journal,Square,1,White
+571,Berkman Center Research Publication,Journal,Square,1,White
+572,Biometrika,Journal,Square,1,White
+573,Bulletin of the Atomic Scientists,Journal,Square,1,White
+574,"CBR a. R. Radner. Amsterdam, NorthHolland",Journal,Square,1,White
+575,Cahiers d'Études Africaines,Journal,Square,1,White
+576,Cahiers de Civilisation Médiévale,Journal,Square,1,White
+577,Calcutta Univeristy,Journal,Square,1,White
+578,Cambridge: Cambridge Univ. Press,Journal,Square,1,White
+579,Canadian Historical Review,Journal,Square,1,White
+580,Canadian Journal of History,Journal,Square,1,White
+581,Canadian Journal of Political Science/Revue canadienne de science politique,Journal,Square,1,White
+582,Canadian Journal of Sociology / Cahiers canadiens de sociologie,Journal,Square,1,White
+583,Catalyst,Journal,Square,1,White
+584,Challenging Authority: Historical Study of Contentious Politics,Journal,Square,1,White
+585,Chambers38Political Parties in a New Nation: American Experience,Journal,Square,1,White
+586,Child Development,Journal,Square,1,White
+587,Child development,Journal,Square,1,White
+588,China Quarterly,Journal,Square,1,White
+589,Communication Research,Journal,Square,1,White
+590,Communist and Post-Communist Studies,Journal,Square,1,White
+591,Comparative Democratic Studies,Journal,Square,1,White
+592,Comparative Group Studies,Journal,Square,1,White
+593,Comparative Political Studies,Journal,Square,1,White
+594,Comparative Politics,Journal,Square,1,White
+595,Comparative Studies in Society and History,Journal,Square,1,White
+596,Computers in Human Behavior,Journal,Square,1,White
+597,"Conflict (Kurt H. Wolff, Trans.). New York, NY: Free Press of Glencoe",Journal,Square,1,White
+598,Conflict Resolution,Journal,Square,1,White
+599,Democratization,Journal,Square,1,White
+600,Development and Society,Journal,Square,1,White
+601,Developments in Animal and Veterinary Sciences (Netherlands). no. 4.,Journal,Square,1,White
+602,Dominance relations,Journal,Square,1,White
+603,Dominance relations: An ethological view of human conflict and social interaction,Journal,Square,1,White
+604,E. Asia L. Rev.,Journal,Square,1,White
+605,East Asia,Journal,Square,1,White
+606,"Ecology and Behavior of Food-Enhanced Primate Groups. JE Fa & CH Southwick (eds.). New York: Alan R. Liss, Inc",Journal,Square,1,White
+607,Economic Systems,Journal,Square,1,White
+608,"Economics in Nature-Social Dilemmas, Mate Choice and Biological Markets",Journal,Square,1,White
+609,Electoral Studies,Journal,Square,1,White
+610,Electoral studies,Journal,Square,1,White
+611,Emerging Markets Finance and Trade,Journal,Square,1,White
+612,English Historical Review,Journal,Square,1,White
+613,Ethnology,Journal,Square,1,White
+614,Etnosfera,Journal,Square,1,White
+615,European Journal of Political Research,Journal,Square,1,White
+616,Evolution of American Electoral Systems,Journal,Square,1,White
+617,Ewha Journal of Gender and Law,Journal,Square,1,White
+618,Feasibility of the Democratic Developmental State in the South,Journal,Square,1,White
+619,Florentine Tuscany,Journal,Square,1,White
+620,Folia Primatologica,Journal,Square,1,White
+621,Foreign Affairs,Journal,Square,1,White
+622,French Historical Studies,Journal,Square,1,White
+623,"Friends, Followers and Factions",Journal,Square,1,White
+624,"Friends, Followers and Factions: A Reader in political clientelism",Journal,Square,1,White
+625,"Friends, Followers, and Factions: A Reader in Political Clientelism",Journal,Square,1,White
+626,"Friends, followers and factions: a reader in political clientelism",Journal,Square,1,White
+627,From Max Weber: Essays in Sociology,Journal,Square,1,White
+628,Games and Economic Behavior,Journal,Square,1,White
+629,"Glencoe, Illinois: Free Press. KatzPersonal Influence: Part Played by People in the Flow of Mass Communication",Journal,Square,1,White
+630,Globalization and democratization in Asia. construction of identity. London: Routledge,Journal,Square,1,White
+631,Government Information Quarterly,Journal,Square,1,White
+632,Government and Opposition,Journal,Square,1,White
+633,Government information quarterly,Journal,Square,1,White
+634,"Greeks, translated by C. Lambert and TL Fagan",Journal,Square,1,White
+635,"Grierson (London, 1964)",Journal,Square,1,White
+636,Harvard Univ,Journal,Square,1,White
+637,History Today,Journal,Square,1,White
+638,History and Theory,Journal,Square,1,White
+639,History: Reviews of New Books,Journal,Square,1,White
+640,Human Relations,Journal,Square,1,White
+641,Hunters and,Journal,Square,1,White
+642,Hunters and Gatherers Today,Journal,Square,1,White
+643,Hunters and gatherers today,Journal,Square,1,White
+644,International Interactions,Journal,Square,1,White
+645,International Journal of African Historical Studies,Journal,Square,1,White
+646,International Journal of Costume and Fashion,Journal,Square,1,White
+647,International Journal of Cultural Policy,Journal,Square,1,White
+648,International Journal of Humanities and Social Sciences,Journal,Square,1,White
+649,International Journal of Korean Studies,Journal,Square,1,White
+650,International Journal of Primatology,Journal,Square,1,White
+651,International Journal of the History of Sport,Journal,Square,1,White
+652,International Labor and Working-Class History,Journal,Square,1,Red
+653,International Political Science Review,Journal,Square,1,White
+654,International relations of the Asia-Pacific,Journal,Square,1,White
+655,Introduction to mathematical sociology.,Journal,Square,1,White
+656,Isis,Journal,Square,1,White
+657,JOURNAL OF FUTURE POLITICS,Journal,Square,1,White
+658,Japanese Journal of Electoral Studies,Journal,Square,1,White
+659,Japanese Journal of Political Science,Journal,Square,1,White
+660,JeDEM-eJournal of eDemocracy and Open Government,Journal,Square,1,White
+661,Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie,Journal,Square,1,White
+662,Journal of Abnormal and Social Psychology,Journal,Square,1,White
+663,Journal of Asian Studies,Journal,Square,1,White
+664,Journal of Asian and African Studies,Journal,Square,1,White
+665,Journal of Communication,Journal,Square,1,White
+666,Journal of Comparative and Physiological Psychology,Journal,Square,1,White
+667,Journal of Contemporary Asia,Journal,Square,1,White
+668,Journal of Democracy,Journal,Square,1,White
+669,Journal of East Asian Affairs,Journal,Square,1,White
+670,Journal of East Asian Studies,Journal,Square,1,White
+671,Journal of Economic History,Journal,Square,1,White
+672,Journal of Economic Literature,Journal,Square,1,White
+673,Journal of Economic Theory,Journal,Square,1,White
+674,Journal of Hellenic Studies,Journal,Square,1,White
+675,Journal of Korean Social Trend and Perspective,Journal,Square,1,White
+676,Journal of Korean Women＇s Studies,Journal,Square,1,White
+677,Journal of Legislative Studies,Journal,Square,1,White
+678,Journal of Local Government Studis,Journal,Square,1,White
+679,Journal of Marriage and Family,Journal,Square,1,White
+680,Journal of Mathematical Psychology,Journal,Square,1,White
+681,Journal of Mathematical Sociology,Journal,Square,1,White
+682,Journal of Modern African Studies,Journal,Square,1,White
+683,Journal of Northeast Asian Studies,Journal,Square,1,White
+684,Journal of Political Economy,Journal,Square,1,White
+685,Journal of Politics,Journal,Square,1,White
+686,Journal of Quantitative Anthropology,Journal,Square,1,White
+687,Journal of Roman Studies,Journal,Square,1,White
+688,Journal of Sex Research,Journal,Square,1,White
+689,Journal of Urban Technology,Journal,Square,1,White
+690,Journal of Voluntary Action Research,Journal,Square,1,White
+691,Journal of Youth and Adolescence,Journal,Square,1,White
+692,Journal of public relations research,Journal,Square,1,White
+693,Journal of the American Research Center in Egypt,Journal,Square,1,White
+694,Journal of the History of the Behavioral Sciences,Journal,Square,1,White
+695,Journal of the Korea Contents Association,Journal,Square,1,White
+696,Journal of the Korean Society for Library and Information Science,Journal,Square,1,White
+697,Journalism,Journal,Square,1,White
+698,Knodt. Writing science,Journal,Square,1,White
+699,Korea Journal,Journal,Square,1,White
+700,Korea Local Administration Review,Journal,Square,1,White
+701,Korea Observer,Journal,Square,1,White
+702,Korea Review of International Studies,Journal,Square,1,White
+703,Korea and World Politics,Journal,Square,1,White
+704,Korea observer,Journal,Square,1,White
+705,Korean Journal,Journal,Square,1,White
+706,Korean Journal of Local Government & Administration Studies,Journal,Square,1,White
+707,Korean Journal of Local Government Studies,Journal,Square,1,White
+708,Korean Journal of Policy Analysis and Evaluation,Journal,Square,1,White
+709,Korean Journal of Policy Studies,Journal,Square,1,White
+710,Korean Journal of Public Administration,Journal,Square,1,White
+711,Korean Lawyers Association Journal,Journal,Square,1,White
+712,Korean Party Studies Review,Journal,Square,1,White
+713,Korean Political Science Review,Journal,Square,1,White
+714,"Korean Strategic Review, Carnegie Endowment for International Peace. https://carnegieendowment. org/2018/11/16/president-moon-jae-in-and-politics-of-inter-korean-d-tente-pub-77730)(17 July 2020, date last accessed)",Journal,Square,1,White
+715,Korean Studies,Journal,Square,1,White
+716,Korean journal of communication and information,Journal,Square,1,White
+717,Korean studies,Journal,Square,1,White
+718,Last Emperor of China,Journal,Square,1,White
+719,Legislative Studies Quarterly,Journal,Square,1,White
+720,Local-level politics: Social and cultural perspectives. Chicago: Aldine Pub. Co,Journal,Square,1,White
+721,London: Phoenix Giants,Journal,Square,1,White
+722,"Machiavellian Intelligence : Social Expertise and the Evolution of Intellect in Monkeys, Apes and Man",Journal,Square,1,White
+723,Man,Journal,Square,1,White
+724,Mass Communication & Society,Journal,Square,1,White
+725,"Max Knight (Berkeley: University of California Press, 1973)",Journal,Square,1,White
+726,Medieval Warfare: A History,Journal,Square,1,White
+727,Medieval Warfare: a history,Journal,Square,1,White
+728,Midwest Journal of Political Science,Journal,Square,1,White
+729,Minutes of the Provincial Council,Journal,Square,1,White
+730,Molecular Ecology,Journal,Square,1,White
+731,Nat'l Mun. Rev.,Journal,Square,1,White
+732,Nature,Journal,Square,1,White
+733,New Media & Society,Journal,Square,1,White
+734,New Political Science,Journal,Square,1,White
+735,New York History,Journal,Square,1,White
+736,New York and Cambridge: Cambridge University Press,Journal,Square,1,White
+737,New York: Henry Holt,Journal,Square,1,White
+738,New York: Henry Holt. CBO9780511509742,Journal,Square,1,White
+739,New York: Vintage,Journal,Square,1,White
+740,Nova Religio,Journal,Square,1,White
+741,OUGHTOPIA,Journal,Square,1,White
+742,Oceania,Journal,Square,1,White
+743,Osteuropa,Journal,Square,1,White
+744,Pacific Affairs,Journal,Square,1,White
+745,Pacific Focus,Journal,Square,1,White
+746,Pacific Viewpoint,Journal,Square,1,White
+747,Party Politics,Journal,Square,1,White
+748,Party politics,Journal,Square,1,White
+749,Patronage in ancient society,Journal,Square,1,White
+750,Peace Studies,Journal,Square,1,White
+751,Pennsylvania History: A Journal of Mid-Atlantic Studies,Journal,Square,1,White
+752,Pennsylvania Magazine of History and Biography,Journal,Square,1,White
+753,Personal Research Collection,Journal,Square,1,White
+754,Perspectives of human evolution,Journal,Square,1,White
+755,Philosophy and Scientific Method,Journal,Square,1,White
+756,Philosophy of the Social Sciences,Journal,Square,1,White
+757,Physica A: Statistical Mechanics and its Applications,Journal,Square,1,White
+758,Physiological Zoology,Journal,Square,1,White
+759,Poetics,Journal,Square,1,White
+760,Policy & Politics,Journal,Square,1,White
+761,Polish Pol. Sci. YB,Journal,Square,1,White
+762,Political Geography,Journal,Square,1,White
+763,Political Oppositions in Industrialising Asia,Journal,Square,1,White
+764,Political Quarterly,Journal,Square,1,White
+765,Political Science Quarterly,Journal,Square,1,White
+766,Political Studies,Journal,Square,1,White
+767,Politics & Society,Journal,Square,1,White
+768,Portal: Journal of Multidisciplinary International Studies,Journal,Square,1,White
+769,Primate Societies,Journal,Square,1,White
+770,Primate societies,Journal,Square,1,White
+771,Primates,Journal,Square,1,White
+772,Proceedings of the American Philosophical Society,Journal,Square,1,White
+773,Proceedings of the National Academy of Sciences,Journal,Square,1,White
+774,Psychiatry,Journal,Square,1,White
+775,Psychological Bulletin,Journal,Square,1,White
+776,Public Culture,Journal,Square,1,White
+777,Public Policy Review,Journal,Square,1,White
+778,Quality & Quantity,Journal,Square,1,White
+779,Renaissance Quarterly,Journal,Square,1,White
+780,Research and Dialogue on Programmatic Parties and Party Systems: Case Study Reports,Journal,Square,1,White
+781,Research on Democracy and Society,Journal,Square,1,White
+782,Review of International Organizations,Journal,Square,1,White
+783,Review of Korean Studies,Journal,Square,1,White
+784,Review of Political Economy,Journal,Square,1,White
+785,Review of Radical Political Economics,Journal,Square,1,White
+786,Review of Religious Research,Journal,Square,1,White
+787,Revue belge de philologie et d'histoire,Journal,Square,1,White
+788,SPECTATOR-LONDON-WEEKLY-,Journal,Square,1,White
+789,SW Schmidt et alii,Journal,Square,1,White
+790,Science,Journal,Square,1,White
+791,Science Studies,Journal,Square,1,White
+792,"Science, technology, & human values",Journal,Square,1,White
+793,Self-organization of complex structures: From individual to collective dynamics,Journal,Square,1,White
+794,Seoul: Baeksanseodang,Journal,Square,1,White
+795,Sex Roles,Journal,Square,1,White
+796,"Simians, cyborgs and women: reinvention of nature",Journal,Square,1,White
+797,Social Communication Among Primates,Journal,Square,1,White
+798,Social Forces,Journal,Square,1,Red
+799,Social Networks,Journal,Square,1,White
+800,Social Psychology Quarterly,Journal,Square,1,White
+801,Social Science Computer Review,Journal,Square,1,White
+802,Social Science Journal,Journal,Square,1,White
+803,Social Science Quarterly,Journal,Square,1,Red
+804,Social Science Research,Journal,Square,1,Red
+805,Social networks,Journal,Square,1,White
+806,Sociological Forum,Journal,Square,1,White
+807,Sociological Methodology,Journal,Square,1,Red
+808,Sociological Methods & Research,Journal,Square,1,White
+809,Sociological Theory,Journal,Square,1,Red
+810,Sociometry,Journal,Square,1,White
+811,South African Journal of Science,Journal,Square,1,White
+812,Southwestern Journal of Anthropology,Journal,Square,1,White
+813,Sozialer Sinn,Journal,Square,1,White
+814,Statemaking and social movements: essays in history and theory,Journal,Square,1,White
+815,Strategies and structures in Thai society,Journal,Square,1,White
+816,Strategies and structures in Thai society. Amsterdam: Anthropologisch-Sociologisch Centrum,Journal,Square,1,White
+817,Studies in Comparative Communism,Journal,Square,1,White
+818,Taiwan Journal of Democracy,Journal,Square,1,White
+819,Theoretical perspectives on urban politics,Journal,Square,1,White
+820,Theory and Society,Journal,Square,1,White
+821,"Theory, Culture & Society",Journal,Square,1,White
+822,Third World Quarterly,Journal,Square,1,White
+823,"To aid in achieving its stated purposes and objectives this GCOE program launched a journal which publishes its academic research results in academic year 2008. Adopting the first letters from the GCOE’s program title “Gender Equality and Multicultural Conviviality”, this periodical was named “GEMC journal”. Since academic year 2009, we have published two GEMC journals, English and Japanese volumes every",Journal,Square,1,White
+824,Trans. Richard Nice. Stanford: Stanford University Press,Journal,Square,1,White
+825,Transformations of kinship,Journal,Square,1,White
+826,Trends in Ecology & Evolution,Journal,Square,1,White
+827,Tulane Studies in Zoology,Journal,Square,1,White
+828,"Unaonsaious in Culture, New YOl'k: EP Dutton",Journal,Square,1,White
+829,"Unconscious in Culture, ed. I. Rossi",Journal,Square,1,White
+830,Urbana: University of Illinois Press,Journal,Square,1,White
+831,Virginia Magazine of History and Biography,Journal,Square,1,White
+832,War in the Tribal Zone,Journal,Square,1,White
+833,War in the tribal zone: Expanding states and indigenous warfare,Journal,Square,1,White
+834,War in the tribal zone: expanding states and indigenous warfare,Journal,Square,1,White
+835,"We, the Tikopia: A Sociological Study of Kinship in Primitive Polynesia",Journal,Square,1,White
+836,Western Pennsylvania History: 1918-2018,Journal,Square,1,White
+837,"Whiskey Rebellion, Past and Present Perspectives",Journal,Square,1,White
+838,William and Mary Quarterly,Journal,Square,1,White
+839,Zeitschrift für Psychologie und Physiologie der Sinnesorgane. Abt. 1. Zeitschrift für Psychologie,Journal,Square,1,White
+840,Zeitschrift für Tierpsychologie,Journal,Square,1,White
+841,Zoologica,Journal,Square,1,White
+842,and the same author's Toward an American Army,Journal,Square,1,White
+843,baboon in medical research,Journal,Square,1,White
+844,bulletin of mathematical biophysics,Journal,Square,1,White
+845,challenge of social control,Journal,Square,1,White
+846,challenges of intra-party democracy,Journal,Square,1,White
+847,formation of national states in Western Europe,Journal,Square,1,White
+848,formation of national states in western Europe,Journal,Square,1,White
+849,good society,Journal,Square,1,White
+850,great apes,Journal,Square,1,White
+851,quoted phrase appears on,Journal,Square,1,White
+852,sahoekwakyoyuk(social studies education),Journal,Square,1,White
+853,"social anthropology of Latin America: Essays in honor of Ralph Leon Beals. Los Angeles: Latin American Center, University of California",Journal,Square,1,White
+854,study of Election,Journal,Square,1,White
+855,경제와사회,Journal,Square,1,White
+856,대한정치학회보,Journal,Square,1,White
+857,사회과학 담론과 정책,Journal,Square,1,White
+858,사회과학연구,Journal,Square,1,White
+859,세계헌법연구,Journal,Square,1,White
+860,아시아여성연구,Journal,Square,1,White
+861,아태연구,Journal,Square,1,White
+862,의정논총,Journal,Square,1,White
+863,의정연구,Journal,Square,1,White
+864,이화젠더법학,Journal,Square,1,White
+865,정치정보연구,Journal,Square,1,White
+866,지방정부연구,Journal,Square,1,White
+867,한국동북아논총,Journal,Square,1,White
+868,한국로고스경영학회 학술발표대회논문집,Journal,Square,1,White
+869,한국수사학회 학술대회,Journal,Square,1,White
+870,한국심리학회지: 문화 및 사회문제,Journal,Square,1,White
+871,한국언론학보,Journal,Square,1,White
+872,한국정당학회보,Journal,Square,1,White
+873,한국정책학회 추계학술발표논문집,Journal,Square,1,White
+874,한국정치연구,Journal,Square,1,White
+875,한국정치연구 (Journal of Korean Politics),Journal,Square,1,White
+876,한국정치학회보,Journal,Square,1,White
+877,한국지방자치연구,Journal,Square,1,White
+878,한국지방자치학회보,Journal,Square,1,White
+879,한국지방정부학회 학술대회자료집,Journal,Square,1,White
+880,한국행정논집,Journal,Square,1,White

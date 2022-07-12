@@ -1,70 +1,353 @@
-NodeIndex,NodeLabel,NodeType,NodeShape,NodeSize,NodeColor,IsSociologyJournal
-113,ANNALS of the American Academy of Political and Social Science,Journal,Square,1,Red,1.0
-114,Academy of Management Journal,Journal,Square,1,White,
-115,Acta Sociologica,Journal,Square,1,Red,1.0
-116,American Historical Review,Journal,Square,1,White,
-117,American Journal of Sociology,Journal,Square,1,Red,1.0
-118,American Political Science Review,Journal,Square,1,White,
-119,Armed Forces & Society,Journal,Square,1,White,
-120,Asian Economic Papers,Journal,Square,1,White,
-121,Asian Perspective,Journal,Square,1,White,
-122,Asian Security,Journal,Square,1,White,
-123,Asian Survey,Journal,Square,1,White,
-124,Behavioral Science,Journal,Square,1,White,
-125,Berkeley Undergraduate Journal,Journal,Square,1,White,
-126,British Journal of Political Science,Journal,Square,1,White,
-127,Canadian Journal of Political Science/Revue canadienne de science politique,Journal,Square,1,White,
-128,China Quarterly,Journal,Square,1,White,
-129,Communist and Post-Communist Studies,Journal,Square,1,White,
-130,Communist and Post-communist Studies,Journal,Square,1,White,
-131,Comparative Politics,Journal,Square,1,White,
-132,Contemporary Politics,Journal,Square,1,White,
-133,Contemporary Sociology,Journal,Square,1,Red,1.0
-134,Contemporary Southeast Asia,Journal,Square,1,White,
-135,Democratization,Journal,Square,1,White,
-136,European Journal of Political Research,Journal,Square,1,White,
-137,European Political Science,Journal,Square,1,White,
-138,Foreign Affairs,Journal,Square,1,White,
-139,Foreign Policy,Journal,Square,1,White,
-140,Global Asia,Journal,Square,1,White,
-141,Independent Review,Journal,Square,1,White,
-142,International Advances in Economic Research,Journal,Square,1,White,
-143,International Journal of Politics Culture and Society,Journal,Square,1,White,
-144,International Labor and Working-Class History,Journal,Square,1,Red,1.0
-145,International Organization,Journal,Square,1,Red,1.0
-146,International Security,Journal,Square,1,White,
-147,Issues & Studies,Journal,Square,1,White,
-148,Journal of Asian Studies,Journal,Square,1,White,
-149,Journal of Asian and African Studies,Journal,Square,1,White,
-150,Journal of Contemporary Asia,Journal,Square,1,White,
-151,Journal of East Asian Affairs,Journal,Square,1,White,
-152,Journal of East Asian Studies,Journal,Square,1,White,
-153,Journal of Economic Integration,Journal,Square,1,White,
-154,Journal of Economic Perspectives,Journal,Square,1,White,
-155,Journal of International Affairs,Journal,Square,1,White,
-156,Journal of International and Area Studies,Journal,Square,1,White,
-157,Journal of Korean Studies,Journal,Square,1,White,
-158,Journal of Political & Military Sociology,Journal,Square,1,Red,1.0
-159,Journal of Politics,Journal,Square,1,White,
-160,Journal of Third World Studies,Journal,Square,1,White,
-161,Korean Studies,Journal,Square,1,White,
-162,Millennium,Journal,Square,1,White,
-163,Modern China,Journal,Square,1,White,
-164,New Left Review,Journal,Square,1,White,
-165,Nonproliferation Review,Journal,Square,1,White,
-166,North Korean Review,Journal,Square,1,White,
-167,Nuncius,Journal,Square,1,White,
-168,Oral History Review,Journal,Square,1,White,
-169,Pacific Affairs,Journal,Square,1,White,
-170,Perspectives on Politics,Journal,Square,1,White,
-171,Political Theory,Journal,Square,1,White,
-172,Politics and the Life Sciences,Journal,Square,1,White,
-173,Science & Society,Journal,Square,1,Red,1.0
-174,Slavic Review,Journal,Square,1,White,
-175,Slavonic and East European Review,Journal,Square,1,White,
-176,Soviet Studies,Journal,Square,1,White,
-177,Studies in Comparative Communism,Journal,Square,1,White,
-178,Systems Research and Behavioral Science,Journal,Square,1,White,
-179,Systems practice,Journal,Square,1,White,
-180,Third World Quarterly,Journal,Square,1,White,
-181,World Politics,Journal,Square,1,White,
+NodeIndex,NodeLabel,NodeType,NodeShape,NodeSize,NodeColor
+529,21st Century Political Science Review,Journal,Square,1,White
+530,21세기정치학회보,Journal,Square,1,White
+531,ANNALS of the American Academy of Political and Social Science,Journal,Square,1,White
+532,ASIEN,Journal,Square,1,White
+533,Acta Sociologica,Journal,Square,1,White
+534,Africa,Journal,Square,1,White
+535,Agricultural History,Journal,Square,1,White
+536,Albion,Journal,Square,1,White
+537,American Anthropologist,Journal,Square,1,White
+538,American Antiquity,Journal,Square,1,White
+539,American Ethnologist,Journal,Square,1,White
+540,American Historical Review,Journal,Square,1,White
+541,American Journal of International Law,Journal,Square,1,White
+542,American Journal of Orthopsychiatry,Journal,Square,1,White
+543,American Journal of Physical Anthropology,Journal,Square,1,White
+544,American Journal of Primatology,Journal,Square,1,White
+545,American Journal of Sociology,Journal,Square,1,White
+546,American Mathematical Monthly,Journal,Square,1,White
+547,American Political Science Review,Journal,Square,1,White
+548,American Scientist,Journal,Square,1,White
+549,American Sociological Review,Journal,Square,1,White
+550,Animal Behaviour,Journal,Square,1,White
+551,"Annales. Histoire, Sciences Sociales",Journal,Square,1,White
+552,Annual Review of Sociology,Journal,Square,1,White
+553,Anthropology of War,Journal,Square,1,White
+554,Anthropology today,Journal,Square,1,White
+555,Applied Economics Letters,Journal,Square,1,White
+556,Arms Control Today,Journal,Square,1,White
+557,Asia pacific business review,Journal,Square,1,White
+558,Asian Journal of Political Science,Journal,Square,1,White
+559,Asian Journal of Women's Studies,Journal,Square,1,White
+560,"Asian New Democracies: Philippines, South Korea and Taiwan Compared",Journal,Square,1,White
+561,Asian Perspective,Journal,Square,1,White
+562,Asian Politics & Policy,Journal,Square,1,White
+563,Asian Survey,Journal,Square,1,White
+564,Asian survey,Journal,Square,1,White
+565,Austin: University of Texas,Journal,Square,1,White
+566,Authoritarianism and corporatism in Latin America,Journal,Square,1,White
+567,Available at SSRN 4040810,Journal,Square,1,White
+568,Behavioral Science,Journal,Square,1,White
+569,Behaviour,Journal,Square,1,White
+570,"Bentley (reprint ed., New York: Harmony Books 1980)",Journal,Square,1,White
+571,Berkman Center Research Publication,Journal,Square,1,White
+572,Biometrika,Journal,Square,1,White
+573,Bulletin of the Atomic Scientists,Journal,Square,1,White
+574,"CBR a. R. Radner. Amsterdam, NorthHolland",Journal,Square,1,White
+575,Cahiers d'Études Africaines,Journal,Square,1,White
+576,Cahiers de Civilisation Médiévale,Journal,Square,1,White
+577,Calcutta Univeristy,Journal,Square,1,White
+578,Cambridge: Cambridge Univ. Press,Journal,Square,1,White
+579,Canadian Historical Review,Journal,Square,1,White
+580,Canadian Journal of History,Journal,Square,1,White
+581,Canadian Journal of Political Science/Revue canadienne de science politique,Journal,Square,1,White
+582,Canadian Journal of Sociology / Cahiers canadiens de sociologie,Journal,Square,1,White
+583,Catalyst,Journal,Square,1,White
+584,Challenging Authority: Historical Study of Contentious Politics,Journal,Square,1,White
+585,Chambers38Political Parties in a New Nation: American Experience,Journal,Square,1,White
+586,Child Development,Journal,Square,1,White
+587,Child development,Journal,Square,1,White
+588,China Quarterly,Journal,Square,1,White
+589,Communication Research,Journal,Square,1,White
+590,Communist and Post-Communist Studies,Journal,Square,1,White
+591,Comparative Democratic Studies,Journal,Square,1,White
+592,Comparative Group Studies,Journal,Square,1,White
+593,Comparative Political Studies,Journal,Square,1,White
+594,Comparative Politics,Journal,Square,1,White
+595,Comparative Studies in Society and History,Journal,Square,1,White
+596,Computers in Human Behavior,Journal,Square,1,White
+597,"Conflict (Kurt H. Wolff, Trans.). New York, NY: Free Press of Glencoe",Journal,Square,1,White
+598,Conflict Resolution,Journal,Square,1,White
+599,Democratization,Journal,Square,1,White
+600,Development and Society,Journal,Square,1,White
+601,Developments in Animal and Veterinary Sciences (Netherlands). no. 4.,Journal,Square,1,White
+602,Dominance relations,Journal,Square,1,White
+603,Dominance relations: An ethological view of human conflict and social interaction,Journal,Square,1,White
+604,E. Asia L. Rev.,Journal,Square,1,White
+605,East Asia,Journal,Square,1,White
+606,"Ecology and Behavior of Food-Enhanced Primate Groups. JE Fa & CH Southwick (eds.). New York: Alan R. Liss, Inc",Journal,Square,1,White
+607,Economic Systems,Journal,Square,1,White
+608,"Economics in Nature-Social Dilemmas, Mate Choice and Biological Markets",Journal,Square,1,White
+609,Electoral Studies,Journal,Square,1,White
+610,Electoral studies,Journal,Square,1,White
+611,Emerging Markets Finance and Trade,Journal,Square,1,White
+612,English Historical Review,Journal,Square,1,White
+613,Ethnology,Journal,Square,1,White
+614,Etnosfera,Journal,Square,1,White
+615,European Journal of Political Research,Journal,Square,1,White
+616,Evolution of American Electoral Systems,Journal,Square,1,White
+617,Ewha Journal of Gender and Law,Journal,Square,1,White
+618,Feasibility of the Democratic Developmental State in the South,Journal,Square,1,White
+619,Florentine Tuscany,Journal,Square,1,White
+620,Folia Primatologica,Journal,Square,1,White
+621,Foreign Affairs,Journal,Square,1,White
+622,French Historical Studies,Journal,Square,1,White
+623,"Friends, Followers and Factions",Journal,Square,1,White
+624,"Friends, Followers and Factions: A Reader in political clientelism",Journal,Square,1,White
+625,"Friends, Followers, and Factions: A Reader in Political Clientelism",Journal,Square,1,White
+626,"Friends, followers and factions: a reader in political clientelism",Journal,Square,1,White
+627,From Max Weber: Essays in Sociology,Journal,Square,1,White
+628,Games and Economic Behavior,Journal,Square,1,White
+629,"Glencoe, Illinois: Free Press. KatzPersonal Influence: Part Played by People in the Flow of Mass Communication",Journal,Square,1,White
+630,Globalization and democratization in Asia. construction of identity. London: Routledge,Journal,Square,1,White
+631,Government Information Quarterly,Journal,Square,1,White
+632,Government and Opposition,Journal,Square,1,White
+633,Government information quarterly,Journal,Square,1,White
+634,"Greeks, translated by C. Lambert and TL Fagan",Journal,Square,1,White
+635,"Grierson (London, 1964)",Journal,Square,1,White
+636,Harvard Univ,Journal,Square,1,White
+637,History Today,Journal,Square,1,White
+638,History and Theory,Journal,Square,1,White
+639,History: Reviews of New Books,Journal,Square,1,White
+640,Human Relations,Journal,Square,1,White
+641,Hunters and,Journal,Square,1,White
+642,Hunters and Gatherers Today,Journal,Square,1,White
+643,Hunters and gatherers today,Journal,Square,1,White
+644,International Interactions,Journal,Square,1,White
+645,International Journal of African Historical Studies,Journal,Square,1,White
+646,International Journal of Costume and Fashion,Journal,Square,1,White
+647,International Journal of Cultural Policy,Journal,Square,1,White
+648,International Journal of Humanities and Social Sciences,Journal,Square,1,White
+649,International Journal of Korean Studies,Journal,Square,1,White
+650,International Journal of Primatology,Journal,Square,1,White
+651,International Journal of the History of Sport,Journal,Square,1,White
+652,International Labor and Working-Class History,Journal,Square,1,White
+653,International Political Science Review,Journal,Square,1,White
+654,International relations of the Asia-Pacific,Journal,Square,1,White
+655,Introduction to mathematical sociology.,Journal,Square,1,White
+656,Isis,Journal,Square,1,White
+657,JOURNAL OF FUTURE POLITICS,Journal,Square,1,White
+658,Japanese Journal of Electoral Studies,Journal,Square,1,White
+659,Japanese Journal of Political Science,Journal,Square,1,White
+660,JeDEM-eJournal of eDemocracy and Open Government,Journal,Square,1,White
+661,Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie,Journal,Square,1,White
+662,Journal of Abnormal and Social Psychology,Journal,Square,1,White
+663,Journal of Asian Studies,Journal,Square,1,White
+664,Journal of Asian and African Studies,Journal,Square,1,White
+665,Journal of Communication,Journal,Square,1,White
+666,Journal of Comparative and Physiological Psychology,Journal,Square,1,White
+667,Journal of Contemporary Asia,Journal,Square,1,White
+668,Journal of Democracy,Journal,Square,1,White
+669,Journal of East Asian Affairs,Journal,Square,1,White
+670,Journal of East Asian Studies,Journal,Square,1,White
+671,Journal of Economic History,Journal,Square,1,White
+672,Journal of Economic Literature,Journal,Square,1,White
+673,Journal of Economic Theory,Journal,Square,1,White
+674,Journal of Hellenic Studies,Journal,Square,1,White
+675,Journal of Korean Social Trend and Perspective,Journal,Square,1,White
+676,Journal of Korean Women＇s Studies,Journal,Square,1,White
+677,Journal of Legislative Studies,Journal,Square,1,White
+678,Journal of Local Government Studis,Journal,Square,1,White
+679,Journal of Marriage and Family,Journal,Square,1,White
+680,Journal of Mathematical Psychology,Journal,Square,1,White
+681,Journal of Mathematical Sociology,Journal,Square,1,White
+682,Journal of Modern African Studies,Journal,Square,1,White
+683,Journal of Northeast Asian Studies,Journal,Square,1,White
+684,Journal of Political Economy,Journal,Square,1,White
+685,Journal of Politics,Journal,Square,1,White
+686,Journal of Quantitative Anthropology,Journal,Square,1,White
+687,Journal of Roman Studies,Journal,Square,1,White
+688,Journal of Sex Research,Journal,Square,1,White
+689,Journal of Urban Technology,Journal,Square,1,White
+690,Journal of Voluntary Action Research,Journal,Square,1,White
+691,Journal of Youth and Adolescence,Journal,Square,1,White
+692,Journal of public relations research,Journal,Square,1,White
+693,Journal of the American Research Center in Egypt,Journal,Square,1,White
+694,Journal of the History of the Behavioral Sciences,Journal,Square,1,White
+695,Journal of the Korea Contents Association,Journal,Square,1,White
+696,Journal of the Korean Society for Library and Information Science,Journal,Square,1,White
+697,Journalism,Journal,Square,1,White
+698,Knodt. Writing science,Journal,Square,1,White
+699,Korea Journal,Journal,Square,1,White
+700,Korea Local Administration Review,Journal,Square,1,White
+701,Korea Observer,Journal,Square,1,White
+702,Korea Review of International Studies,Journal,Square,1,White
+703,Korea and World Politics,Journal,Square,1,White
+704,Korea observer,Journal,Square,1,White
+705,Korean Journal,Journal,Square,1,White
+706,Korean Journal of Local Government & Administration Studies,Journal,Square,1,White
+707,Korean Journal of Local Government Studies,Journal,Square,1,White
+708,Korean Journal of Policy Analysis and Evaluation,Journal,Square,1,White
+709,Korean Journal of Policy Studies,Journal,Square,1,White
+710,Korean Journal of Public Administration,Journal,Square,1,White
+711,Korean Lawyers Association Journal,Journal,Square,1,White
+712,Korean Party Studies Review,Journal,Square,1,White
+713,Korean Political Science Review,Journal,Square,1,White
+714,"Korean Strategic Review, Carnegie Endowment for International Peace. https://carnegieendowment. org/2018/11/16/president-moon-jae-in-and-politics-of-inter-korean-d-tente-pub-77730)(17 July 2020, date last accessed)",Journal,Square,1,White
+715,Korean Studies,Journal,Square,1,White
+716,Korean journal of communication and information,Journal,Square,1,White
+717,Korean studies,Journal,Square,1,White
+718,Last Emperor of China,Journal,Square,1,White
+719,Legislative Studies Quarterly,Journal,Square,1,White
+720,Local-level politics: Social and cultural perspectives. Chicago: Aldine Pub. Co,Journal,Square,1,White
+721,London: Phoenix Giants,Journal,Square,1,White
+722,"Machiavellian Intelligence : Social Expertise and the Evolution of Intellect in Monkeys, Apes and Man",Journal,Square,1,White
+723,Man,Journal,Square,1,White
+724,Mass Communication & Society,Journal,Square,1,White
+725,"Max Knight (Berkeley: University of California Press, 1973)",Journal,Square,1,White
+726,Medieval Warfare: A History,Journal,Square,1,White
+727,Medieval Warfare: a history,Journal,Square,1,White
+728,Midwest Journal of Political Science,Journal,Square,1,White
+729,Minutes of the Provincial Council,Journal,Square,1,White
+730,Molecular Ecology,Journal,Square,1,White
+731,Nat'l Mun. Rev.,Journal,Square,1,White
+732,Nature,Journal,Square,1,White
+733,New Media & Society,Journal,Square,1,White
+734,New Political Science,Journal,Square,1,White
+735,New York History,Journal,Square,1,White
+736,New York and Cambridge: Cambridge University Press,Journal,Square,1,White
+737,New York: Henry Holt,Journal,Square,1,White
+738,New York: Henry Holt. CBO9780511509742,Journal,Square,1,White
+739,New York: Vintage,Journal,Square,1,White
+740,Nova Religio,Journal,Square,1,White
+741,OUGHTOPIA,Journal,Square,1,White
+742,Oceania,Journal,Square,1,White
+743,Osteuropa,Journal,Square,1,White
+744,Pacific Affairs,Journal,Square,1,White
+745,Pacific Focus,Journal,Square,1,White
+746,Pacific Viewpoint,Journal,Square,1,White
+747,Party Politics,Journal,Square,1,White
+748,Party politics,Journal,Square,1,White
+749,Patronage in ancient society,Journal,Square,1,White
+750,Peace Studies,Journal,Square,1,White
+751,Pennsylvania History: A Journal of Mid-Atlantic Studies,Journal,Square,1,White
+752,Pennsylvania Magazine of History and Biography,Journal,Square,1,White
+753,Personal Research Collection,Journal,Square,1,White
+754,Perspectives of human evolution,Journal,Square,1,White
+755,Philosophy and Scientific Method,Journal,Square,1,White
+756,Philosophy of the Social Sciences,Journal,Square,1,White
+757,Physica A: Statistical Mechanics and its Applications,Journal,Square,1,White
+758,Physiological Zoology,Journal,Square,1,White
+759,Poetics,Journal,Square,1,White
+760,Policy & Politics,Journal,Square,1,White
+761,Polish Pol. Sci. YB,Journal,Square,1,White
+762,Political Geography,Journal,Square,1,White
+763,Political Oppositions in Industrialising Asia,Journal,Square,1,White
+764,Political Quarterly,Journal,Square,1,White
+765,Political Science Quarterly,Journal,Square,1,White
+766,Political Studies,Journal,Square,1,White
+767,Politics & Society,Journal,Square,1,White
+768,Portal: Journal of Multidisciplinary International Studies,Journal,Square,1,White
+769,Primate Societies,Journal,Square,1,White
+770,Primate societies,Journal,Square,1,White
+771,Primates,Journal,Square,1,White
+772,Proceedings of the American Philosophical Society,Journal,Square,1,White
+773,Proceedings of the National Academy of Sciences,Journal,Square,1,White
+774,Psychiatry,Journal,Square,1,White
+775,Psychological Bulletin,Journal,Square,1,White
+776,Public Culture,Journal,Square,1,White
+777,Public Policy Review,Journal,Square,1,White
+778,Quality & Quantity,Journal,Square,1,White
+779,Renaissance Quarterly,Journal,Square,1,White
+780,Research and Dialogue on Programmatic Parties and Party Systems: Case Study Reports,Journal,Square,1,White
+781,Research on Democracy and Society,Journal,Square,1,White
+782,Review of International Organizations,Journal,Square,1,White
+783,Review of Korean Studies,Journal,Square,1,White
+784,Review of Political Economy,Journal,Square,1,White
+785,Review of Radical Political Economics,Journal,Square,1,White
+786,Review of Religious Research,Journal,Square,1,White
+787,Revue belge de philologie et d'histoire,Journal,Square,1,White
+788,SPECTATOR-LONDON-WEEKLY-,Journal,Square,1,White
+789,SW Schmidt et alii,Journal,Square,1,White
+790,Science,Journal,Square,1,White
+791,Science Studies,Journal,Square,1,White
+792,"Science, technology, & human values",Journal,Square,1,White
+793,Self-organization of complex structures: From individual to collective dynamics,Journal,Square,1,White
+794,Seoul: Baeksanseodang,Journal,Square,1,White
+795,Sex Roles,Journal,Square,1,White
+796,"Simians, cyborgs and women: reinvention of nature",Journal,Square,1,White
+797,Social Communication Among Primates,Journal,Square,1,White
+798,Social Forces,Journal,Square,1,White
+799,Social Networks,Journal,Square,1,White
+800,Social Psychology Quarterly,Journal,Square,1,White
+801,Social Science Computer Review,Journal,Square,1,White
+802,Social Science Journal,Journal,Square,1,White
+803,Social Science Quarterly,Journal,Square,1,White
+804,Social Science Research,Journal,Square,1,White
+805,Social networks,Journal,Square,1,White
+806,Sociological Forum,Journal,Square,1,White
+807,Sociological Methodology,Journal,Square,1,White
+808,Sociological Methods & Research,Journal,Square,1,White
+809,Sociological Theory,Journal,Square,1,White
+810,Sociometry,Journal,Square,1,White
+811,South African Journal of Science,Journal,Square,1,White
+812,Southwestern Journal of Anthropology,Journal,Square,1,White
+813,Sozialer Sinn,Journal,Square,1,White
+814,Statemaking and social movements: essays in history and theory,Journal,Square,1,White
+815,Strategies and structures in Thai society,Journal,Square,1,White
+816,Strategies and structures in Thai society. Amsterdam: Anthropologisch-Sociologisch Centrum,Journal,Square,1,White
+817,Studies in Comparative Communism,Journal,Square,1,White
+818,Taiwan Journal of Democracy,Journal,Square,1,White
+819,Theoretical perspectives on urban politics,Journal,Square,1,White
+820,Theory and Society,Journal,Square,1,White
+821,"Theory, Culture & Society",Journal,Square,1,White
+822,Third World Quarterly,Journal,Square,1,White
+823,"To aid in achieving its stated purposes and objectives this GCOE program launched a journal which publishes its academic research results in academic year 2008. Adopting the first letters from the GCOE’s program title “Gender Equality and Multicultural Conviviality”, this periodical was named “GEMC journal”. Since academic year 2009, we have published two GEMC journals, English and Japanese volumes every",Journal,Square,1,White
+824,Trans. Richard Nice. Stanford: Stanford University Press,Journal,Square,1,White
+825,Transformations of kinship,Journal,Square,1,White
+826,Trends in Ecology & Evolution,Journal,Square,1,White
+827,Tulane Studies in Zoology,Journal,Square,1,White
+828,"Unaonsaious in Culture, New YOl'k: EP Dutton",Journal,Square,1,White
+829,"Unconscious in Culture, ed. I. Rossi",Journal,Square,1,White
+830,Urbana: University of Illinois Press,Journal,Square,1,White
+831,Virginia Magazine of History and Biography,Journal,Square,1,White
+832,War in the Tribal Zone,Journal,Square,1,White
+833,War in the tribal zone: Expanding states and indigenous warfare,Journal,Square,1,White
+834,War in the tribal zone: expanding states and indigenous warfare,Journal,Square,1,White
+835,"We, the Tikopia: A Sociological Study of Kinship in Primitive Polynesia",Journal,Square,1,White
+836,Western Pennsylvania History: 1918-2018,Journal,Square,1,White
+837,"Whiskey Rebellion, Past and Present Perspectives",Journal,Square,1,White
+838,William and Mary Quarterly,Journal,Square,1,White
+839,Zeitschrift für Psychologie und Physiologie der Sinnesorgane. Abt. 1. Zeitschrift für Psychologie,Journal,Square,1,White
+840,Zeitschrift für Tierpsychologie,Journal,Square,1,White
+841,Zoologica,Journal,Square,1,White
+842,and the same author's Toward an American Army,Journal,Square,1,White
+843,baboon in medical research,Journal,Square,1,White
+844,bulletin of mathematical biophysics,Journal,Square,1,White
+845,challenge of social control,Journal,Square,1,White
+846,challenges of intra-party democracy,Journal,Square,1,White
+847,formation of national states in Western Europe,Journal,Square,1,White
+848,formation of national states in western Europe,Journal,Square,1,White
+849,good society,Journal,Square,1,White
+850,great apes,Journal,Square,1,White
+851,quoted phrase appears on,Journal,Square,1,White
+852,sahoekwakyoyuk(social studies education),Journal,Square,1,White
+853,"social anthropology of Latin America: Essays in honor of Ralph Leon Beals. Los Angeles: Latin American Center, University of California",Journal,Square,1,White
+854,study of Election,Journal,Square,1,White
+855,경제와사회,Journal,Square,1,White
+856,대한정치학회보,Journal,Square,1,White
+857,사회과학 담론과 정책,Journal,Square,1,White
+858,사회과학연구,Journal,Square,1,White
+859,세계헌법연구,Journal,Square,1,White
+860,아시아여성연구,Journal,Square,1,White
+861,아태연구,Journal,Square,1,White
+862,의정논총,Journal,Square,1,White
+863,의정연구,Journal,Square,1,White
+864,이화젠더법학,Journal,Square,1,White
+865,정치정보연구,Journal,Square,1,White
+866,지방정부연구,Journal,Square,1,White
+867,한국동북아논총,Journal,Square,1,White
+868,한국로고스경영학회 학술발표대회논문집,Journal,Square,1,White
+869,한국수사학회 학술대회,Journal,Square,1,White
+870,한국심리학회지: 문화 및 사회문제,Journal,Square,1,White
+871,한국언론학보,Journal,Square,1,White
+872,한국정당학회보,Journal,Square,1,White
+873,한국정책학회 추계학술발표논문집,Journal,Square,1,White
+874,한국정치연구,Journal,Square,1,White
+875,한국정치연구 (Journal of Korean Politics),Journal,Square,1,White
+876,한국정치학회보,Journal,Square,1,White
+877,한국지방자치연구,Journal,Square,1,White
+878,한국지방자치학회보,Journal,Square,1,White
+879,한국지방정부학회 학술대회자료집,Journal,Square,1,White
+880,한국행정논집,Journal,Square,1,White
